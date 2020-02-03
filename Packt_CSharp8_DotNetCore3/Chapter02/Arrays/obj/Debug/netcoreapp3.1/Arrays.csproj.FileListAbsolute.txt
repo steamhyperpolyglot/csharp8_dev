@@ -1,0 +1,11 @@
+D:\Research_and_Development\csharp8_dev\Packt_CSharp8_DotNetCore3\Chapter02\Arrays\bin\Debug\netcoreapp3.1\Arrays.exe
+D:\Research_and_Development\csharp8_dev\Packt_CSharp8_DotNetCore3\Chapter02\Arrays\bin\Debug\netcoreapp3.1\Arrays.deps.json
+D:\Research_and_Development\csharp8_dev\Packt_CSharp8_DotNetCore3\Chapter02\Arrays\bin\Debug\netcoreapp3.1\Arrays.runtimeconfig.json
+D:\Research_and_Development\csharp8_dev\Packt_CSharp8_DotNetCore3\Chapter02\Arrays\bin\Debug\netcoreapp3.1\Arrays.runtimeconfig.dev.json
+D:\Research_and_Development\csharp8_dev\Packt_CSharp8_DotNetCore3\Chapter02\Arrays\bin\Debug\netcoreapp3.1\Arrays.dll
+D:\Research_and_Development\csharp8_dev\Packt_CSharp8_DotNetCore3\Chapter02\Arrays\bin\Debug\netcoreapp3.1\Arrays.pdb
+D:\Research_and_Development\csharp8_dev\Packt_CSharp8_DotNetCore3\Chapter02\Arrays\obj\Debug\netcoreapp3.1\Arrays.csprojAssemblyReference.cache
+D:\Research_and_Development\csharp8_dev\Packt_CSharp8_DotNetCore3\Chapter02\Arrays\obj\Debug\netcoreapp3.1\Arrays.AssemblyInfoInputs.cache
+D:\Research_and_Development\csharp8_dev\Packt_CSharp8_DotNetCore3\Chapter02\Arrays\obj\Debug\netcoreapp3.1\Arrays.AssemblyInfo.cs
+D:\Research_and_Development\csharp8_dev\Packt_CSharp8_DotNetCore3\Chapter02\Arrays\obj\Debug\netcoreapp3.1\Arrays.dll
+D:\Research_and_Development\csharp8_dev\Packt_CSharp8_DotNetCore3\Chapter02\Arrays\obj\Debug\netcoreapp3.1\Arrays.pdb

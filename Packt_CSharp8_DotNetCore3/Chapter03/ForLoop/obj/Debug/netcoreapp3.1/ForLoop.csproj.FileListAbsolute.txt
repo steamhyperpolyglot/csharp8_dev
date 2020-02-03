@@ -1,0 +1,11 @@
+D:\Research_and_Development\csharp8_dev\Packt_CSharp8_DotNetCore3\Chapter03\ForLoop\bin\Debug\netcoreapp3.1\ForLoop.exe
+D:\Research_and_Development\csharp8_dev\Packt_CSharp8_DotNetCore3\Chapter03\ForLoop\bin\Debug\netcoreapp3.1\ForLoop.deps.json
+D:\Research_and_Development\csharp8_dev\Packt_CSharp8_DotNetCore3\Chapter03\ForLoop\bin\Debug\netcoreapp3.1\ForLoop.runtimeconfig.json
+D:\Research_and_Development\csharp8_dev\Packt_CSharp8_DotNetCore3\Chapter03\ForLoop\bin\Debug\netcoreapp3.1\ForLoop.runtimeconfig.dev.json
+D:\Research_and_Development\csharp8_dev\Packt_CSharp8_DotNetCore3\Chapter03\ForLoop\bin\Debug\netcoreapp3.1\ForLoop.dll
+D:\Research_and_Development\csharp8_dev\Packt_CSharp8_DotNetCore3\Chapter03\ForLoop\bin\Debug\netcoreapp3.1\ForLoop.pdb
+D:\Research_and_Development\csharp8_dev\Packt_CSharp8_DotNetCore3\Chapter03\ForLoop\obj\Debug\netcoreapp3.1\ForLoop.csprojAssemblyReference.cache
+D:\Research_and_Development\csharp8_dev\Packt_CSharp8_DotNetCore3\Chapter03\ForLoop\obj\Debug\netcoreapp3.1\ForLoop.AssemblyInfoInputs.cache
+D:\Research_and_Development\csharp8_dev\Packt_CSharp8_DotNetCore3\Chapter03\ForLoop\obj\Debug\netcoreapp3.1\ForLoop.AssemblyInfo.cs
+D:\Research_and_Development\csharp8_dev\Packt_CSharp8_DotNetCore3\Chapter03\ForLoop\obj\Debug\netcoreapp3.1\ForLoop.dll
+D:\Research_and_Development\csharp8_dev\Packt_CSharp8_DotNetCore3\Chapter03\ForLoop\obj\Debug\netcoreapp3.1\ForLoop.pdb
