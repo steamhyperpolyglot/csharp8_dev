@@ -1,0 +1,11 @@
+D:\Research_and_Development\csharp8_dev\Packt_CSharp8_DotNetCore3\Chapter03\ForEach\bin\Debug\netcoreapp3.1\ForEach.exe
+D:\Research_and_Development\csharp8_dev\Packt_CSharp8_DotNetCore3\Chapter03\ForEach\bin\Debug\netcoreapp3.1\ForEach.deps.json
+D:\Research_and_Development\csharp8_dev\Packt_CSharp8_DotNetCore3\Chapter03\ForEach\bin\Debug\netcoreapp3.1\ForEach.runtimeconfig.json
+D:\Research_and_Development\csharp8_dev\Packt_CSharp8_DotNetCore3\Chapter03\ForEach\bin\Debug\netcoreapp3.1\ForEach.runtimeconfig.dev.json
+D:\Research_and_Development\csharp8_dev\Packt_CSharp8_DotNetCore3\Chapter03\ForEach\bin\Debug\netcoreapp3.1\ForEach.dll
+D:\Research_and_Development\csharp8_dev\Packt_CSharp8_DotNetCore3\Chapter03\ForEach\bin\Debug\netcoreapp3.1\ForEach.pdb
+D:\Research_and_Development\csharp8_dev\Packt_CSharp8_DotNetCore3\Chapter03\ForEach\obj\Debug\netcoreapp3.1\ForEach.csprojAssemblyReference.cache
+D:\Research_and_Development\csharp8_dev\Packt_CSharp8_DotNetCore3\Chapter03\ForEach\obj\Debug\netcoreapp3.1\ForEach.AssemblyInfoInputs.cache
+D:\Research_and_Development\csharp8_dev\Packt_CSharp8_DotNetCore3\Chapter03\ForEach\obj\Debug\netcoreapp3.1\ForEach.AssemblyInfo.cs
+D:\Research_and_Development\csharp8_dev\Packt_CSharp8_DotNetCore3\Chapter03\ForEach\obj\Debug\netcoreapp3.1\ForEach.dll
+D:\Research_and_Development\csharp8_dev\Packt_CSharp8_DotNetCore3\Chapter03\ForEach\obj\Debug\netcoreapp3.1\ForEach.pdb
