@@ -1,0 +1,11 @@
+d:\Research_and_Development\csharp8_dev\Packt_CSharp8_DotNetCore3\Chapter02\Basics\bin\Debug\netcoreapp3.1\Basics.exe
+D:\Research_and_Development\csharp8_dev\Packt_CSharp8_DotNetCore3\Chapter02\Basics\bin\Debug\netcoreapp3.1\Basics.deps.json
+D:\Research_and_Development\csharp8_dev\Packt_CSharp8_DotNetCore3\Chapter02\Basics\bin\Debug\netcoreapp3.1\Basics.runtimeconfig.json
+D:\Research_and_Development\csharp8_dev\Packt_CSharp8_DotNetCore3\Chapter02\Basics\bin\Debug\netcoreapp3.1\Basics.runtimeconfig.dev.json
+d:\Research_and_Development\csharp8_dev\Packt_CSharp8_DotNetCore3\Chapter02\Basics\bin\Debug\netcoreapp3.1\Basics.dll
+d:\Research_and_Development\csharp8_dev\Packt_CSharp8_DotNetCore3\Chapter02\Basics\bin\Debug\netcoreapp3.1\Basics.pdb
+d:\Research_and_Development\csharp8_dev\Packt_CSharp8_DotNetCore3\Chapter02\Basics\obj\Debug\netcoreapp3.1\Basics.csprojAssemblyReference.cache
+d:\Research_and_Development\csharp8_dev\Packt_CSharp8_DotNetCore3\Chapter02\Basics\obj\Debug\netcoreapp3.1\Basics.AssemblyInfoInputs.cache
+d:\Research_and_Development\csharp8_dev\Packt_CSharp8_DotNetCore3\Chapter02\Basics\obj\Debug\netcoreapp3.1\Basics.AssemblyInfo.cs
+d:\Research_and_Development\csharp8_dev\Packt_CSharp8_DotNetCore3\Chapter02\Basics\obj\Debug\netcoreapp3.1\Basics.dll
+d:\Research_and_Development\csharp8_dev\Packt_CSharp8_DotNetCore3\Chapter02\Basics\obj\Debug\netcoreapp3.1\Basics.pdb
