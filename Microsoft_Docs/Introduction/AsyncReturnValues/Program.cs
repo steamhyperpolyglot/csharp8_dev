@@ -1,12 +1,18 @@
 ﻿using System;
+using System.Threading.Tasks;
 
 namespace AsyncReturnValues
 {
 	class Program
 	{
-		static void Main ( string [] args )
+		static async Task<int> Main ( string [] args )
 		{
-			Console.WriteLine ( "Hello World!" );
+			return await AsyncConsoleWork ();
+		}
+
+		private static async Task <int> AsyncConsoleWork()
+		{
+			return 0;
 		}
 	}
 }

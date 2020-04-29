@@ -1,0 +1,6 @@
+D:\RnD\csharp8_dev\Microsoft_Docs\Introduction\SimpleLinqLambda\bin\Debug\SimpleLinqLambda.exe
+D:\RnD\csharp8_dev\Microsoft_Docs\Introduction\SimpleLinqLambda\bin\Debug\SimpleLinqLambda.pdb
+D:\RnD\csharp8_dev\Microsoft_Docs\Introduction\SimpleLinqLambda\obj\Debug\SimpleLinqLambda.csprojAssemblyReference.cache
+D:\RnD\csharp8_dev\Microsoft_Docs\Introduction\SimpleLinqLambda\obj\Debug\SimpleLinqLambda.csproj.CoreCompileInputs.cache
+D:\RnD\csharp8_dev\Microsoft_Docs\Introduction\SimpleLinqLambda\obj\Debug\SimpleLinqLambda.exe
+D:\RnD\csharp8_dev\Microsoft_Docs\Introduction\SimpleLinqLambda\obj\Debug\SimpleLinqLambda.pdb

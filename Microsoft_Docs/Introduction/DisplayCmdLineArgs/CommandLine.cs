@@ -2,7 +2,7 @@
 
 namespace DisplayCmdLineArgs
 { 
-	class Program
+	class CommandLine
 	{
 		public static void Main ( string [] args )
 		{

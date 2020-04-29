@@ -1,0 +1,6 @@
+D:\RnD\csharp8_dev\Microsoft_Docs\Introduction\EmbeddedStatements\bin\Debug\EmbeddedStatements.exe
+D:\RnD\csharp8_dev\Microsoft_Docs\Introduction\EmbeddedStatements\bin\Debug\EmbeddedStatements.pdb
+D:\RnD\csharp8_dev\Microsoft_Docs\Introduction\EmbeddedStatements\obj\Debug\EmbeddedStatements.csprojAssemblyReference.cache
+D:\RnD\csharp8_dev\Microsoft_Docs\Introduction\EmbeddedStatements\obj\Debug\EmbeddedStatements.csproj.CoreCompileInputs.cache
+D:\RnD\csharp8_dev\Microsoft_Docs\Introduction\EmbeddedStatements\obj\Debug\EmbeddedStatements.exe
+D:\RnD\csharp8_dev\Microsoft_Docs\Introduction\EmbeddedStatements\obj\Debug\EmbeddedStatements.pdb
