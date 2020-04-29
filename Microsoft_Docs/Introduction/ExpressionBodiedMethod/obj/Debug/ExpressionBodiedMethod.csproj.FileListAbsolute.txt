@@ -1,0 +1,6 @@
+D:\RnD\csharp8_dev\Microsoft_Docs\Introduction\ExpressionBodiedMethod\bin\Debug\ExpressionBodiedMethod.exe
+D:\RnD\csharp8_dev\Microsoft_Docs\Introduction\ExpressionBodiedMethod\bin\Debug\ExpressionBodiedMethod.pdb
+D:\RnD\csharp8_dev\Microsoft_Docs\Introduction\ExpressionBodiedMethod\obj\Debug\ExpressionBodiedMethod.csprojAssemblyReference.cache
+D:\RnD\csharp8_dev\Microsoft_Docs\Introduction\ExpressionBodiedMethod\obj\Debug\ExpressionBodiedMethod.csproj.CoreCompileInputs.cache
+D:\RnD\csharp8_dev\Microsoft_Docs\Introduction\ExpressionBodiedMethod\obj\Debug\ExpressionBodiedMethod.exe
+D:\RnD\csharp8_dev\Microsoft_Docs\Introduction\ExpressionBodiedMethod\obj\Debug\ExpressionBodiedMethod.pdb

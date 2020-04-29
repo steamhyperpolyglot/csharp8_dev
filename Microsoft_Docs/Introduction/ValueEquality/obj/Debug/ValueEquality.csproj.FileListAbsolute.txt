@@ -1,0 +1,6 @@
+D:\RnD\csharp8_dev\Microsoft_Docs\Introduction\ValueEquality\bin\Debug\ValueEquality.exe
+D:\RnD\csharp8_dev\Microsoft_Docs\Introduction\ValueEquality\bin\Debug\ValueEquality.pdb
+D:\RnD\csharp8_dev\Microsoft_Docs\Introduction\ValueEquality\obj\Debug\ValueEquality.csprojAssemblyReference.cache
+D:\RnD\csharp8_dev\Microsoft_Docs\Introduction\ValueEquality\obj\Debug\ValueEquality.csproj.CoreCompileInputs.cache
+D:\RnD\csharp8_dev\Microsoft_Docs\Introduction\ValueEquality\obj\Debug\ValueEquality.exe
+D:\RnD\csharp8_dev\Microsoft_Docs\Introduction\ValueEquality\obj\Debug\ValueEquality.pdb

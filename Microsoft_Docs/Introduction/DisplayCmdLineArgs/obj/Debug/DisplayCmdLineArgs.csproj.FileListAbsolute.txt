@@ -1,0 +1,6 @@
+D:\RnD\csharp8_dev\Microsoft_Docs\Introduction\DisplayCmdLineArgs\bin\Debug\DisplayCmdLineArgs.exe
+D:\RnD\csharp8_dev\Microsoft_Docs\Introduction\DisplayCmdLineArgs\bin\Debug\DisplayCmdLineArgs.pdb
+D:\RnD\csharp8_dev\Microsoft_Docs\Introduction\DisplayCmdLineArgs\obj\Debug\DisplayCmdLineArgs.csprojAssemblyReference.cache
+D:\RnD\csharp8_dev\Microsoft_Docs\Introduction\DisplayCmdLineArgs\obj\Debug\DisplayCmdLineArgs.csproj.CoreCompileInputs.cache
+D:\RnD\csharp8_dev\Microsoft_Docs\Introduction\DisplayCmdLineArgs\obj\Debug\DisplayCmdLineArgs.exe
+D:\RnD\csharp8_dev\Microsoft_Docs\Introduction\DisplayCmdLineArgs\obj\Debug\DisplayCmdLineArgs.pdb

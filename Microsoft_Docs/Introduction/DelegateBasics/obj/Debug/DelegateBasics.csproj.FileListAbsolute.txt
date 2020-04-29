@@ -1,0 +1,6 @@
+D:\RnD\csharp8_dev\Microsoft_Docs\Introduction\DelegateBasics\bin\Debug\DelegateBasics.exe
+D:\RnD\csharp8_dev\Microsoft_Docs\Introduction\DelegateBasics\bin\Debug\DelegateBasics.pdb
+D:\RnD\csharp8_dev\Microsoft_Docs\Introduction\DelegateBasics\obj\Debug\DelegateBasics.csprojAssemblyReference.cache
+D:\RnD\csharp8_dev\Microsoft_Docs\Introduction\DelegateBasics\obj\Debug\DelegateBasics.csproj.CoreCompileInputs.cache
+D:\RnD\csharp8_dev\Microsoft_Docs\Introduction\DelegateBasics\obj\Debug\DelegateBasics.exe
+D:\RnD\csharp8_dev\Microsoft_Docs\Introduction\DelegateBasics\obj\Debug\DelegateBasics.pdb

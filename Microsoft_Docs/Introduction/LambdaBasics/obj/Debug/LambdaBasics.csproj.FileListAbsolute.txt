@@ -1,0 +1,6 @@
+D:\RnD\csharp8_dev\Microsoft_Docs\Introduction\LambdaBasics\bin\Debug\LambdaBasics.exe
+D:\RnD\csharp8_dev\Microsoft_Docs\Introduction\LambdaBasics\bin\Debug\LambdaBasics.pdb
+D:\RnD\csharp8_dev\Microsoft_Docs\Introduction\LambdaBasics\obj\Debug\LambdaBasics.csprojAssemblyReference.cache
+D:\RnD\csharp8_dev\Microsoft_Docs\Introduction\LambdaBasics\obj\Debug\LambdaBasics.csproj.CoreCompileInputs.cache
+D:\RnD\csharp8_dev\Microsoft_Docs\Introduction\LambdaBasics\obj\Debug\LambdaBasics.exe
+D:\RnD\csharp8_dev\Microsoft_Docs\Introduction\LambdaBasics\obj\Debug\LambdaBasics.pdb

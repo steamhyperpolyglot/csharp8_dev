@@ -1,0 +1,2 @@
+D:\RnD\csharp8_dev\Microsoft_Docs\Introduction\CmdLineFactorial\obj\Debug\CmdLineFactorial.csprojAssemblyReference.cache
+D:\RnD\csharp8_dev\Microsoft_Docs\Introduction\CmdLineFactorial\obj\Debug\CmdLineFactorial.csproj.CoreCompileInputs.cache

@@ -1,0 +1,2 @@
+D:\RnD\csharp8_dev\Microsoft_Docs\Introduction\CountQueryOp\obj\Debug\CountQueryOp.csprojAssemblyReference.cache
+D:\RnD\csharp8_dev\Microsoft_Docs\Introduction\CountQueryOp\obj\Debug\CountQueryOp.csproj.CoreCompileInputs.cache

@@ -1,0 +1,6 @@
+D:\RnD\csharp8_dev\Microsoft_Docs\Introduction\StatementBasics\bin\Debug\StatementBasics.exe
+D:\RnD\csharp8_dev\Microsoft_Docs\Introduction\StatementBasics\bin\Debug\StatementBasics.pdb
+D:\RnD\csharp8_dev\Microsoft_Docs\Introduction\StatementBasics\obj\Debug\StatementBasics.csprojAssemblyReference.cache
+D:\RnD\csharp8_dev\Microsoft_Docs\Introduction\StatementBasics\obj\Debug\StatementBasics.csproj.CoreCompileInputs.cache
+D:\RnD\csharp8_dev\Microsoft_Docs\Introduction\StatementBasics\obj\Debug\StatementBasics.exe
+D:\RnD\csharp8_dev\Microsoft_Docs\Introduction\StatementBasics\obj\Debug\StatementBasics.pdb

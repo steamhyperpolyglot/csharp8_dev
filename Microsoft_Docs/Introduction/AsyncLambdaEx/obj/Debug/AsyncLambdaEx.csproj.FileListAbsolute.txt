@@ -1,0 +1,10 @@
+D:\RnD\csharp8_dev\Microsoft_Docs\Introduction\AsyncLambdaEx\bin\Debug\AsyncLambdaEx.exe.config
+D:\RnD\csharp8_dev\Microsoft_Docs\Introduction\AsyncLambdaEx\bin\Debug\AsyncLambdaEx.exe
+D:\RnD\csharp8_dev\Microsoft_Docs\Introduction\AsyncLambdaEx\bin\Debug\AsyncLambdaEx.pdb
+D:\RnD\csharp8_dev\Microsoft_Docs\Introduction\AsyncLambdaEx\obj\Debug\AsyncLambdaEx.csprojAssemblyReference.cache
+D:\RnD\csharp8_dev\Microsoft_Docs\Introduction\AsyncLambdaEx\obj\Debug\AsyncLambdaEx.Form1.resources
+D:\RnD\csharp8_dev\Microsoft_Docs\Introduction\AsyncLambdaEx\obj\Debug\AsyncLambdaEx.Properties.Resources.resources
+D:\RnD\csharp8_dev\Microsoft_Docs\Introduction\AsyncLambdaEx\obj\Debug\AsyncLambdaEx.csproj.GenerateResource.cache
+D:\RnD\csharp8_dev\Microsoft_Docs\Introduction\AsyncLambdaEx\obj\Debug\AsyncLambdaEx.csproj.CoreCompileInputs.cache
+D:\RnD\csharp8_dev\Microsoft_Docs\Introduction\AsyncLambdaEx\obj\Debug\AsyncLambdaEx.exe
+D:\RnD\csharp8_dev\Microsoft_Docs\Introduction\AsyncLambdaEx\obj\Debug\AsyncLambdaEx.pdb

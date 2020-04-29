@@ -1,0 +1,6 @@
+D:\RnD\csharp8_dev\Microsoft_Docs\Introduction\LambdaTuples\bin\Debug\LambdaTuples.exe
+D:\RnD\csharp8_dev\Microsoft_Docs\Introduction\LambdaTuples\bin\Debug\LambdaTuples.pdb
+D:\RnD\csharp8_dev\Microsoft_Docs\Introduction\LambdaTuples\obj\Debug\LambdaTuples.csprojAssemblyReference.cache
+D:\RnD\csharp8_dev\Microsoft_Docs\Introduction\LambdaTuples\obj\Debug\LambdaTuples.csproj.CoreCompileInputs.cache
+D:\RnD\csharp8_dev\Microsoft_Docs\Introduction\LambdaTuples\obj\Debug\LambdaTuples.exe
+D:\RnD\csharp8_dev\Microsoft_Docs\Introduction\LambdaTuples\obj\Debug\LambdaTuples.pdb

@@ -1,0 +1,6 @@
+D:\RnD\csharp8_dev\Microsoft_Docs\Introduction\VariableScopeWithLambdas\bin\Debug\VariableScopeWithLambdas.exe
+D:\RnD\csharp8_dev\Microsoft_Docs\Introduction\VariableScopeWithLambdas\bin\Debug\VariableScopeWithLambdas.pdb
+D:\RnD\csharp8_dev\Microsoft_Docs\Introduction\VariableScopeWithLambdas\obj\Debug\VariableScopeWithLambdas.csprojAssemblyReference.cache
+D:\RnD\csharp8_dev\Microsoft_Docs\Introduction\VariableScopeWithLambdas\obj\Debug\VariableScopeWithLambdas.csproj.CoreCompileInputs.cache
+D:\RnD\csharp8_dev\Microsoft_Docs\Introduction\VariableScopeWithLambdas\obj\Debug\VariableScopeWithLambdas.exe
+D:\RnD\csharp8_dev\Microsoft_Docs\Introduction\VariableScopeWithLambdas\obj\Debug\VariableScopeWithLambdas.pdb
