@@ -1,0 +1,6 @@
+D:\RnD\csharp8_dev\Microsoft_Docs\Introduction\ReferenceEquality02\bin\Debug\ReferenceEquality02.exe
+D:\RnD\csharp8_dev\Microsoft_Docs\Introduction\ReferenceEquality02\bin\Debug\ReferenceEquality02.pdb
+D:\RnD\csharp8_dev\Microsoft_Docs\Introduction\ReferenceEquality02\obj\Debug\ReferenceEquality02.csprojAssemblyReference.cache
+D:\RnD\csharp8_dev\Microsoft_Docs\Introduction\ReferenceEquality02\obj\Debug\ReferenceEquality02.csproj.CoreCompileInputs.cache
+D:\RnD\csharp8_dev\Microsoft_Docs\Introduction\ReferenceEquality02\obj\Debug\ReferenceEquality02.exe
+D:\RnD\csharp8_dev\Microsoft_Docs\Introduction\ReferenceEquality02\obj\Debug\ReferenceEquality02.pdb

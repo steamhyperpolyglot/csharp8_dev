@@ -1,0 +1,6 @@
+D:\RnD\csharp8_dev\Microsoft_Docs\Introduction\StructValueEquality\bin\Debug\StructValueEquality.exe
+D:\RnD\csharp8_dev\Microsoft_Docs\Introduction\StructValueEquality\bin\Debug\StructValueEquality.pdb
+D:\RnD\csharp8_dev\Microsoft_Docs\Introduction\StructValueEquality\obj\Debug\StructValueEquality.csprojAssemblyReference.cache
+D:\RnD\csharp8_dev\Microsoft_Docs\Introduction\StructValueEquality\obj\Debug\StructValueEquality.csproj.CoreCompileInputs.cache
+D:\RnD\csharp8_dev\Microsoft_Docs\Introduction\StructValueEquality\obj\Debug\StructValueEquality.exe
+D:\RnD\csharp8_dev\Microsoft_Docs\Introduction\StructValueEquality\obj\Debug\StructValueEquality.pdb
