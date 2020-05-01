@@ -1,0 +1,6 @@
+D:\RnD\csharp8_dev\Microsoft_Docs\WorkingWithTypes\ExplicitConversion\bin\Debug\ExplicitConversion.exe
+D:\RnD\csharp8_dev\Microsoft_Docs\WorkingWithTypes\ExplicitConversion\bin\Debug\ExplicitConversion.pdb
+D:\RnD\csharp8_dev\Microsoft_Docs\WorkingWithTypes\ExplicitConversion\obj\Debug\ExplicitConversion.csprojAssemblyReference.cache
+D:\RnD\csharp8_dev\Microsoft_Docs\WorkingWithTypes\ExplicitConversion\obj\Debug\ExplicitConversion.csproj.CoreCompileInputs.cache
+D:\RnD\csharp8_dev\Microsoft_Docs\WorkingWithTypes\ExplicitConversion\obj\Debug\ExplicitConversion.exe
+D:\RnD\csharp8_dev\Microsoft_Docs\WorkingWithTypes\ExplicitConversion\obj\Debug\ExplicitConversion.pdb

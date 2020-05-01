@@ -1,0 +1,12 @@
+D:\RnD\csharp8_dev\Microsoft_Docs\WorkingWithTypes\DynamicIronPythonSample\bin\Debug\DynamicIronPythonSample.exe.config
+D:\RnD\csharp8_dev\Microsoft_Docs\WorkingWithTypes\DynamicIronPythonSample\bin\Debug\DynamicIronPythonSample.exe
+D:\RnD\csharp8_dev\Microsoft_Docs\WorkingWithTypes\DynamicIronPythonSample\bin\Debug\DynamicIronPythonSample.pdb
+D:\RnD\csharp8_dev\Microsoft_Docs\WorkingWithTypes\DynamicIronPythonSample\bin\Debug\IronPython.dll
+D:\RnD\csharp8_dev\Microsoft_Docs\WorkingWithTypes\DynamicIronPythonSample\bin\Debug\IronPython.Modules.dll
+D:\RnD\csharp8_dev\Microsoft_Docs\WorkingWithTypes\DynamicIronPythonSample\bin\Debug\Microsoft.Scripting.dll
+D:\RnD\csharp8_dev\Microsoft_Docs\WorkingWithTypes\DynamicIronPythonSample\bin\Debug\Microsoft.Dynamic.dll
+D:\RnD\csharp8_dev\Microsoft_Docs\WorkingWithTypes\DynamicIronPythonSample\obj\Debug\DynamicIronPythonSample.csprojAssemblyReference.cache
+D:\RnD\csharp8_dev\Microsoft_Docs\WorkingWithTypes\DynamicIronPythonSample\obj\Debug\DynamicIronPythonSample.csproj.CoreCompileInputs.cache
+D:\RnD\csharp8_dev\Microsoft_Docs\WorkingWithTypes\DynamicIronPythonSample\obj\Debug\DynamicIronPythonSample.csproj.CopyComplete
+D:\RnD\csharp8_dev\Microsoft_Docs\WorkingWithTypes\DynamicIronPythonSample\obj\Debug\DynamicIronPythonSample.exe
+D:\RnD\csharp8_dev\Microsoft_Docs\WorkingWithTypes\DynamicIronPythonSample\obj\Debug\DynamicIronPythonSample.pdb

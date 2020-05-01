@@ -1,0 +1,6 @@
+D:\RnD\csharp8_dev\Microsoft_Docs\WorkingWithTypes\TypeUnboxing\bin\Debug\TypeUnboxing.exe
+D:\RnD\csharp8_dev\Microsoft_Docs\WorkingWithTypes\TypeUnboxing\bin\Debug\TypeUnboxing.pdb
+D:\RnD\csharp8_dev\Microsoft_Docs\WorkingWithTypes\TypeUnboxing\obj\Debug\TypeUnboxing.csprojAssemblyReference.cache
+D:\RnD\csharp8_dev\Microsoft_Docs\WorkingWithTypes\TypeUnboxing\obj\Debug\TypeUnboxing.csproj.CoreCompileInputs.cache
+D:\RnD\csharp8_dev\Microsoft_Docs\WorkingWithTypes\TypeUnboxing\obj\Debug\TypeUnboxing.exe
+D:\RnD\csharp8_dev\Microsoft_Docs\WorkingWithTypes\TypeUnboxing\obj\Debug\TypeUnboxing.pdb

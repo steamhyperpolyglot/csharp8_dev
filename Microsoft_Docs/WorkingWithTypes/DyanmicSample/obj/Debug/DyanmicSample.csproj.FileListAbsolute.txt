@@ -1,0 +1,7 @@
+D:\RnD\csharp8_dev\Microsoft_Docs\WorkingWithTypes\DyanmicSample\bin\Debug\DyanmicSample.exe.config
+D:\RnD\csharp8_dev\Microsoft_Docs\WorkingWithTypes\DyanmicSample\bin\Debug\DyanmicSample.exe
+D:\RnD\csharp8_dev\Microsoft_Docs\WorkingWithTypes\DyanmicSample\bin\Debug\DyanmicSample.pdb
+D:\RnD\csharp8_dev\Microsoft_Docs\WorkingWithTypes\DyanmicSample\obj\Debug\DyanmicSample.csprojAssemblyReference.cache
+D:\RnD\csharp8_dev\Microsoft_Docs\WorkingWithTypes\DyanmicSample\obj\Debug\DyanmicSample.csproj.CoreCompileInputs.cache
+D:\RnD\csharp8_dev\Microsoft_Docs\WorkingWithTypes\DyanmicSample\obj\Debug\DyanmicSample.exe
+D:\RnD\csharp8_dev\Microsoft_Docs\WorkingWithTypes\DyanmicSample\obj\Debug\DyanmicSample.pdb
