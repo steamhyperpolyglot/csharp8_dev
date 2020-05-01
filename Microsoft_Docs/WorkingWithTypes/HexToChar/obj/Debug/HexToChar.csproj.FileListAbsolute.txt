@@ -1,0 +1,6 @@
+D:\RnD\csharp8_dev\Microsoft_Docs\WorkingWithTypes\HexToChar\bin\Debug\HexToChar.exe
+D:\RnD\csharp8_dev\Microsoft_Docs\WorkingWithTypes\HexToChar\bin\Debug\HexToChar.pdb
+D:\RnD\csharp8_dev\Microsoft_Docs\WorkingWithTypes\HexToChar\obj\Debug\HexToChar.csprojAssemblyReference.cache
+D:\RnD\csharp8_dev\Microsoft_Docs\WorkingWithTypes\HexToChar\obj\Debug\HexToChar.csproj.CoreCompileInputs.cache
+D:\RnD\csharp8_dev\Microsoft_Docs\WorkingWithTypes\HexToChar\obj\Debug\HexToChar.exe
+D:\RnD\csharp8_dev\Microsoft_Docs\WorkingWithTypes\HexToChar\obj\Debug\HexToChar.pdb

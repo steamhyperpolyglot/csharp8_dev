@@ -1,0 +1,6 @@
+D:\RnD\csharp8_dev\Microsoft_Docs\WorkingWithTypes\ObjectBoxing\bin\Debug\ObjectBoxing.exe
+D:\RnD\csharp8_dev\Microsoft_Docs\WorkingWithTypes\ObjectBoxing\bin\Debug\ObjectBoxing.pdb
+D:\RnD\csharp8_dev\Microsoft_Docs\WorkingWithTypes\ObjectBoxing\obj\Debug\ObjectBoxing.csprojAssemblyReference.cache
+D:\RnD\csharp8_dev\Microsoft_Docs\WorkingWithTypes\ObjectBoxing\obj\Debug\ObjectBoxing.csproj.CoreCompileInputs.cache
+D:\RnD\csharp8_dev\Microsoft_Docs\WorkingWithTypes\ObjectBoxing\obj\Debug\ObjectBoxing.exe
+D:\RnD\csharp8_dev\Microsoft_Docs\WorkingWithTypes\ObjectBoxing\obj\Debug\ObjectBoxing.pdb

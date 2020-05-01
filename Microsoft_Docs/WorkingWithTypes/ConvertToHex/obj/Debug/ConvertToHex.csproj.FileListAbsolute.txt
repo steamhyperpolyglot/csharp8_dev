@@ -1,0 +1,6 @@
+D:\RnD\csharp8_dev\Microsoft_Docs\WorkingWithTypes\ConvertToHex\bin\Debug\ConvertToHex.exe
+D:\RnD\csharp8_dev\Microsoft_Docs\WorkingWithTypes\ConvertToHex\bin\Debug\ConvertToHex.pdb
+D:\RnD\csharp8_dev\Microsoft_Docs\WorkingWithTypes\ConvertToHex\obj\Debug\ConvertToHex.csprojAssemblyReference.cache
+D:\RnD\csharp8_dev\Microsoft_Docs\WorkingWithTypes\ConvertToHex\obj\Debug\ConvertToHex.csproj.CoreCompileInputs.cache
+D:\RnD\csharp8_dev\Microsoft_Docs\WorkingWithTypes\ConvertToHex\obj\Debug\ConvertToHex.exe
+D:\RnD\csharp8_dev\Microsoft_Docs\WorkingWithTypes\ConvertToHex\obj\Debug\ConvertToHex.pdb

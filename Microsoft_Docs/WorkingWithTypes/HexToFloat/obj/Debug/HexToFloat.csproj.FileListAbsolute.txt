@@ -1,0 +1,6 @@
+D:\RnD\csharp8_dev\Microsoft_Docs\WorkingWithTypes\HexToFloat\bin\Debug\HexToFloat.exe
+D:\RnD\csharp8_dev\Microsoft_Docs\WorkingWithTypes\HexToFloat\bin\Debug\HexToFloat.pdb
+D:\RnD\csharp8_dev\Microsoft_Docs\WorkingWithTypes\HexToFloat\obj\Debug\HexToFloat.csprojAssemblyReference.cache
+D:\RnD\csharp8_dev\Microsoft_Docs\WorkingWithTypes\HexToFloat\obj\Debug\HexToFloat.csproj.CoreCompileInputs.cache
+D:\RnD\csharp8_dev\Microsoft_Docs\WorkingWithTypes\HexToFloat\obj\Debug\HexToFloat.exe
+D:\RnD\csharp8_dev\Microsoft_Docs\WorkingWithTypes\HexToFloat\obj\Debug\HexToFloat.pdb

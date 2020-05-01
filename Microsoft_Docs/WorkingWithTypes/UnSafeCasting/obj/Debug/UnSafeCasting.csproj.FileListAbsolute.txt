@@ -1,0 +1,6 @@
+D:\RnD\csharp8_dev\Microsoft_Docs\WorkingWithTypes\UnSafeCasting\bin\Debug\UnSafeCasting.exe
+D:\RnD\csharp8_dev\Microsoft_Docs\WorkingWithTypes\UnSafeCasting\bin\Debug\UnSafeCasting.pdb
+D:\RnD\csharp8_dev\Microsoft_Docs\WorkingWithTypes\UnSafeCasting\obj\Debug\UnSafeCasting.csprojAssemblyReference.cache
+D:\RnD\csharp8_dev\Microsoft_Docs\WorkingWithTypes\UnSafeCasting\obj\Debug\UnSafeCasting.csproj.CoreCompileInputs.cache
+D:\RnD\csharp8_dev\Microsoft_Docs\WorkingWithTypes\UnSafeCasting\obj\Debug\UnSafeCasting.exe
+D:\RnD\csharp8_dev\Microsoft_Docs\WorkingWithTypes\UnSafeCasting\obj\Debug\UnSafeCasting.pdb

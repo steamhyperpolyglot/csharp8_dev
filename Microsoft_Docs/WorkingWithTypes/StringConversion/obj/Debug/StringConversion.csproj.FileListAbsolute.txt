@@ -1,0 +1,6 @@
+D:\RnD\csharp8_dev\Microsoft_Docs\WorkingWithTypes\StringConversion\bin\Debug\StringConversion.exe
+D:\RnD\csharp8_dev\Microsoft_Docs\WorkingWithTypes\StringConversion\bin\Debug\StringConversion.pdb
+D:\RnD\csharp8_dev\Microsoft_Docs\WorkingWithTypes\StringConversion\obj\Debug\StringConversion.csprojAssemblyReference.cache
+D:\RnD\csharp8_dev\Microsoft_Docs\WorkingWithTypes\StringConversion\obj\Debug\StringConversion.csproj.CoreCompileInputs.cache
+D:\RnD\csharp8_dev\Microsoft_Docs\WorkingWithTypes\StringConversion\obj\Debug\StringConversion.exe
+D:\RnD\csharp8_dev\Microsoft_Docs\WorkingWithTypes\StringConversion\obj\Debug\StringConversion.pdb
