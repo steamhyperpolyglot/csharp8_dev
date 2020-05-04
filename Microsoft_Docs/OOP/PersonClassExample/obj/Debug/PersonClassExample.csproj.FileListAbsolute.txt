@@ -1,0 +1,6 @@
+D:\RnD\csharp8_dev\Microsoft_Docs\OOP\PersonClassExample\bin\Debug\PersonClassExample.exe.config
+D:\RnD\csharp8_dev\Microsoft_Docs\OOP\PersonClassExample\bin\Debug\PersonClassExample.exe
+D:\RnD\csharp8_dev\Microsoft_Docs\OOP\PersonClassExample\bin\Debug\PersonClassExample.pdb
+D:\RnD\csharp8_dev\Microsoft_Docs\OOP\PersonClassExample\obj\Debug\PersonClassExample.csproj.CoreCompileInputs.cache
+D:\RnD\csharp8_dev\Microsoft_Docs\OOP\PersonClassExample\obj\Debug\PersonClassExample.exe
+D:\RnD\csharp8_dev\Microsoft_Docs\OOP\PersonClassExample\obj\Debug\PersonClassExample.pdb

@@ -1,0 +1,7 @@
+D:\RnD\csharp8_dev\Microsoft_Docs\OOP\ProgrammingGuide\bin\Debug\ProgrammingGuide.exe.config
+D:\RnD\csharp8_dev\Microsoft_Docs\OOP\ProgrammingGuide\bin\Debug\ProgrammingGuide.exe
+D:\RnD\csharp8_dev\Microsoft_Docs\OOP\ProgrammingGuide\bin\Debug\ProgrammingGuide.pdb
+D:\RnD\csharp8_dev\Microsoft_Docs\OOP\ProgrammingGuide\obj\Debug\ProgrammingGuide.csprojAssemblyReference.cache
+D:\RnD\csharp8_dev\Microsoft_Docs\OOP\ProgrammingGuide\obj\Debug\ProgrammingGuide.csproj.CoreCompileInputs.cache
+D:\RnD\csharp8_dev\Microsoft_Docs\OOP\ProgrammingGuide\obj\Debug\ProgrammingGuide.exe
+D:\RnD\csharp8_dev\Microsoft_Docs\OOP\ProgrammingGuide\obj\Debug\ProgrammingGuide.pdb
