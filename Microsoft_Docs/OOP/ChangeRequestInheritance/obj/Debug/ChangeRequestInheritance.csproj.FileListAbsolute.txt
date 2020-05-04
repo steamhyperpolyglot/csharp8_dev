@@ -1,0 +1,6 @@
+D:\RnD\csharp8_dev\Microsoft_Docs\OOP\ChangeRequestInheritance\bin\Debug\ChangeRequestInheritance.exe
+D:\RnD\csharp8_dev\Microsoft_Docs\OOP\ChangeRequestInheritance\bin\Debug\ChangeRequestInheritance.pdb
+D:\RnD\csharp8_dev\Microsoft_Docs\OOP\ChangeRequestInheritance\obj\Debug\ChangeRequestInheritance.csprojAssemblyReference.cache
+D:\RnD\csharp8_dev\Microsoft_Docs\OOP\ChangeRequestInheritance\obj\Debug\ChangeRequestInheritance.csproj.CoreCompileInputs.cache
+D:\RnD\csharp8_dev\Microsoft_Docs\OOP\ChangeRequestInheritance\obj\Debug\ChangeRequestInheritance.exe
+D:\RnD\csharp8_dev\Microsoft_Docs\OOP\ChangeRequestInheritance\obj\Debug\ChangeRequestInheritance.pdb

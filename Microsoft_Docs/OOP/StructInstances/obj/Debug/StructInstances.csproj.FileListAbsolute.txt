@@ -1,0 +1,6 @@
+D:\RnD\csharp8_dev\Microsoft_Docs\OOP\StructInstances\bin\Debug\StructInstances.exe
+D:\RnD\csharp8_dev\Microsoft_Docs\OOP\StructInstances\bin\Debug\StructInstances.pdb
+D:\RnD\csharp8_dev\Microsoft_Docs\OOP\StructInstances\obj\Debug\StructInstances.csprojAssemblyReference.cache
+D:\RnD\csharp8_dev\Microsoft_Docs\OOP\StructInstances\obj\Debug\StructInstances.csproj.CoreCompileInputs.cache
+D:\RnD\csharp8_dev\Microsoft_Docs\OOP\StructInstances\obj\Debug\StructInstances.exe
+D:\RnD\csharp8_dev\Microsoft_Docs\OOP\StructInstances\obj\Debug\StructInstances.pdb
