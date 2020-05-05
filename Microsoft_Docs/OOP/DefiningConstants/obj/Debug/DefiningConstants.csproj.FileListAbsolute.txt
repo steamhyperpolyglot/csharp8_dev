@@ -1,0 +1,6 @@
+D:\RnD\csharp8_dev\Microsoft_Docs\OOP\DefiningConstants\bin\Debug\DefiningConstants.exe
+D:\RnD\csharp8_dev\Microsoft_Docs\OOP\DefiningConstants\bin\Debug\DefiningConstants.pdb
+D:\RnD\csharp8_dev\Microsoft_Docs\OOP\DefiningConstants\obj\Debug\DefiningConstants.csprojAssemblyReference.cache
+D:\RnD\csharp8_dev\Microsoft_Docs\OOP\DefiningConstants\obj\Debug\DefiningConstants.csproj.CoreCompileInputs.cache
+D:\RnD\csharp8_dev\Microsoft_Docs\OOP\DefiningConstants\obj\Debug\DefiningConstants.exe
+D:\RnD\csharp8_dev\Microsoft_Docs\OOP\DefiningConstants\obj\Debug\DefiningConstants.pdb
