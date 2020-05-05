@@ -1,0 +1,7 @@
+D:\RnD\csharp8_dev\Microsoft_Docs\OOP\OverrideAndNew\bin\Debug\OverrideAndNew.exe.config
+D:\RnD\csharp8_dev\Microsoft_Docs\OOP\OverrideAndNew\bin\Debug\OverrideAndNew.exe
+D:\RnD\csharp8_dev\Microsoft_Docs\OOP\OverrideAndNew\bin\Debug\OverrideAndNew.pdb
+D:\RnD\csharp8_dev\Microsoft_Docs\OOP\OverrideAndNew\obj\Debug\OverrideAndNew.csprojAssemblyReference.cache
+D:\RnD\csharp8_dev\Microsoft_Docs\OOP\OverrideAndNew\obj\Debug\OverrideAndNew.csproj.CoreCompileInputs.cache
+D:\RnD\csharp8_dev\Microsoft_Docs\OOP\OverrideAndNew\obj\Debug\OverrideAndNew.exe
+D:\RnD\csharp8_dev\Microsoft_Docs\OOP\OverrideAndNew\obj\Debug\OverrideAndNew.pdb

@@ -1,0 +1,6 @@
+D:\RnD\csharp8_dev\Microsoft_Docs\OOP\UsingProperties\bin\Debug\UsingProperties.exe
+D:\RnD\csharp8_dev\Microsoft_Docs\OOP\UsingProperties\bin\Debug\UsingProperties.pdb
+D:\RnD\csharp8_dev\Microsoft_Docs\OOP\UsingProperties\obj\Debug\UsingProperties.csprojAssemblyReference.cache
+D:\RnD\csharp8_dev\Microsoft_Docs\OOP\UsingProperties\obj\Debug\UsingProperties.csproj.CoreCompileInputs.cache
+D:\RnD\csharp8_dev\Microsoft_Docs\OOP\UsingProperties\obj\Debug\UsingProperties.exe
+D:\RnD\csharp8_dev\Microsoft_Docs\OOP\UsingProperties\obj\Debug\UsingProperties.pdb

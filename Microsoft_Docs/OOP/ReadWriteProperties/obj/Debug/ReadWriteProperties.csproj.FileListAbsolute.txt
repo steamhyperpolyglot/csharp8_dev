@@ -1,0 +1,6 @@
+D:\RnD\csharp8_dev\Microsoft_Docs\OOP\ReadWriteProperties\bin\Debug\ReadWriteProperties.exe
+D:\RnD\csharp8_dev\Microsoft_Docs\OOP\ReadWriteProperties\bin\Debug\ReadWriteProperties.pdb
+D:\RnD\csharp8_dev\Microsoft_Docs\OOP\ReadWriteProperties\obj\Debug\ReadWriteProperties.csprojAssemblyReference.cache
+D:\RnD\csharp8_dev\Microsoft_Docs\OOP\ReadWriteProperties\obj\Debug\ReadWriteProperties.csproj.CoreCompileInputs.cache
+D:\RnD\csharp8_dev\Microsoft_Docs\OOP\ReadWriteProperties\obj\Debug\ReadWriteProperties.exe
+D:\RnD\csharp8_dev\Microsoft_Docs\OOP\ReadWriteProperties\obj\Debug\ReadWriteProperties.pdb

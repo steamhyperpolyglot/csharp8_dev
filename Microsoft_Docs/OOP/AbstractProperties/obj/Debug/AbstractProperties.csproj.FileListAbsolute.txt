@@ -1,0 +1,6 @@
+D:\RnD\csharp8_dev\Microsoft_Docs\OOP\AbstractProperties\bin\Debug\AbstractProperties.exe
+D:\RnD\csharp8_dev\Microsoft_Docs\OOP\AbstractProperties\bin\Debug\AbstractProperties.pdb
+D:\RnD\csharp8_dev\Microsoft_Docs\OOP\AbstractProperties\obj\Debug\AbstractProperties.csprojAssemblyReference.cache
+D:\RnD\csharp8_dev\Microsoft_Docs\OOP\AbstractProperties\obj\Debug\AbstractProperties.csproj.CoreCompileInputs.cache
+D:\RnD\csharp8_dev\Microsoft_Docs\OOP\AbstractProperties\obj\Debug\AbstractProperties.exe
+D:\RnD\csharp8_dev\Microsoft_Docs\OOP\AbstractProperties\obj\Debug\AbstractProperties.pdb

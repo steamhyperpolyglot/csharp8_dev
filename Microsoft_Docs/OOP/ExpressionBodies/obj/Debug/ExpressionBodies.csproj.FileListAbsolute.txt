@@ -1,0 +1,6 @@
+D:\RnD\csharp8_dev\Microsoft_Docs\OOP\ExpressionBodies\bin\Debug\ExpressionBodies.exe
+D:\RnD\csharp8_dev\Microsoft_Docs\OOP\ExpressionBodies\bin\Debug\ExpressionBodies.pdb
+D:\RnD\csharp8_dev\Microsoft_Docs\OOP\ExpressionBodies\obj\Debug\ExpressionBodies.csprojAssemblyReference.cache
+D:\RnD\csharp8_dev\Microsoft_Docs\OOP\ExpressionBodies\obj\Debug\ExpressionBodies.csproj.CoreCompileInputs.cache
+D:\RnD\csharp8_dev\Microsoft_Docs\OOP\ExpressionBodies\obj\Debug\ExpressionBodies.exe
+D:\RnD\csharp8_dev\Microsoft_Docs\OOP\ExpressionBodies\obj\Debug\ExpressionBodies.pdb

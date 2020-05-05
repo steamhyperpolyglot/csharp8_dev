@@ -1,0 +1,6 @@
+D:\RnD\csharp8_dev\Microsoft_Docs\OOP\DifferentVehicles\bin\Debug\DifferentVehicles.exe
+D:\RnD\csharp8_dev\Microsoft_Docs\OOP\DifferentVehicles\bin\Debug\DifferentVehicles.pdb
+D:\RnD\csharp8_dev\Microsoft_Docs\OOP\DifferentVehicles\obj\Debug\DifferentVehicles.csprojAssemblyReference.cache
+D:\RnD\csharp8_dev\Microsoft_Docs\OOP\DifferentVehicles\obj\Debug\DifferentVehicles.csproj.CoreCompileInputs.cache
+D:\RnD\csharp8_dev\Microsoft_Docs\OOP\DifferentVehicles\obj\Debug\DifferentVehicles.exe
+D:\RnD\csharp8_dev\Microsoft_Docs\OOP\DifferentVehicles\obj\Debug\DifferentVehicles.pdb

@@ -1,0 +1,6 @@
+D:\RnD\csharp8_dev\Microsoft_Docs\OOP\EmployeeInterface\bin\Debug\EmployeeInterface.exe
+D:\RnD\csharp8_dev\Microsoft_Docs\OOP\EmployeeInterface\bin\Debug\EmployeeInterface.pdb
+D:\RnD\csharp8_dev\Microsoft_Docs\OOP\EmployeeInterface\obj\Debug\EmployeeInterface.csprojAssemblyReference.cache
+D:\RnD\csharp8_dev\Microsoft_Docs\OOP\EmployeeInterface\obj\Debug\EmployeeInterface.csproj.CoreCompileInputs.cache
+D:\RnD\csharp8_dev\Microsoft_Docs\OOP\EmployeeInterface\obj\Debug\EmployeeInterface.exe
+D:\RnD\csharp8_dev\Microsoft_Docs\OOP\EmployeeInterface\obj\Debug\EmployeeInterface.pdb

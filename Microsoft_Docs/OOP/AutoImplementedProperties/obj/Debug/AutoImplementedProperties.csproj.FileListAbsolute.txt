@@ -1,0 +1,6 @@
+D:\RnD\csharp8_dev\Microsoft_Docs\OOP\AutoImplementedProperties\bin\Debug\AutoImplementedProperties.exe
+D:\RnD\csharp8_dev\Microsoft_Docs\OOP\AutoImplementedProperties\bin\Debug\AutoImplementedProperties.pdb
+D:\RnD\csharp8_dev\Microsoft_Docs\OOP\AutoImplementedProperties\obj\Debug\AutoImplementedProperties.csprojAssemblyReference.cache
+D:\RnD\csharp8_dev\Microsoft_Docs\OOP\AutoImplementedProperties\obj\Debug\AutoImplementedProperties.csproj.CoreCompileInputs.cache
+D:\RnD\csharp8_dev\Microsoft_Docs\OOP\AutoImplementedProperties\obj\Debug\AutoImplementedProperties.exe
+D:\RnD\csharp8_dev\Microsoft_Docs\OOP\AutoImplementedProperties\obj\Debug\AutoImplementedProperties.pdb

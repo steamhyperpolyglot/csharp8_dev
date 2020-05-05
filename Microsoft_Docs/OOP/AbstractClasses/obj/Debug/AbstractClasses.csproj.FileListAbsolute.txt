@@ -1,0 +1,6 @@
+D:\RnD\csharp8_dev\Microsoft_Docs\OOP\AbstractClasses\bin\Debug\AbstractClasses.exe
+D:\RnD\csharp8_dev\Microsoft_Docs\OOP\AbstractClasses\bin\Debug\AbstractClasses.pdb
+D:\RnD\csharp8_dev\Microsoft_Docs\OOP\AbstractClasses\obj\Debug\AbstractClasses.csprojAssemblyReference.cache
+D:\RnD\csharp8_dev\Microsoft_Docs\OOP\AbstractClasses\obj\Debug\AbstractClasses.csproj.CoreCompileInputs.cache
+D:\RnD\csharp8_dev\Microsoft_Docs\OOP\AbstractClasses\obj\Debug\AbstractClasses.exe
+D:\RnD\csharp8_dev\Microsoft_Docs\OOP\AbstractClasses\obj\Debug\AbstractClasses.pdb

@@ -1,0 +1,6 @@
+D:\RnD\csharp8_dev\Microsoft_Docs\OOP\PropertyAccessor\bin\Debug\PropertyAccessor.exe
+D:\RnD\csharp8_dev\Microsoft_Docs\OOP\PropertyAccessor\bin\Debug\PropertyAccessor.pdb
+D:\RnD\csharp8_dev\Microsoft_Docs\OOP\PropertyAccessor\obj\Debug\PropertyAccessor.csprojAssemblyReference.cache
+D:\RnD\csharp8_dev\Microsoft_Docs\OOP\PropertyAccessor\obj\Debug\PropertyAccessor.csproj.CoreCompileInputs.cache
+D:\RnD\csharp8_dev\Microsoft_Docs\OOP\PropertyAccessor\obj\Debug\PropertyAccessor.exe
+D:\RnD\csharp8_dev\Microsoft_Docs\OOP\PropertyAccessor\obj\Debug\PropertyAccessor.pdb

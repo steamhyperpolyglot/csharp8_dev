@@ -1,0 +1,6 @@
+D:\RnD\csharp8_dev\Microsoft_Docs\OOP\TemperatureConverterEx\bin\Debug\TemperatureConverterEx.exe
+D:\RnD\csharp8_dev\Microsoft_Docs\OOP\TemperatureConverterEx\bin\Debug\TemperatureConverterEx.pdb
+D:\RnD\csharp8_dev\Microsoft_Docs\OOP\TemperatureConverterEx\obj\Debug\TemperatureConverterEx.csprojAssemblyReference.cache
+D:\RnD\csharp8_dev\Microsoft_Docs\OOP\TemperatureConverterEx\obj\Debug\TemperatureConverterEx.csproj.CoreCompileInputs.cache
+D:\RnD\csharp8_dev\Microsoft_Docs\OOP\TemperatureConverterEx\obj\Debug\TemperatureConverterEx.exe
+D:\RnD\csharp8_dev\Microsoft_Docs\OOP\TemperatureConverterEx\obj\Debug\TemperatureConverterEx.pdb
