@@ -1,0 +1,13 @@
+D:\RnD\csharp8_dev\Microsoft_Docs\LocalFunctions\GetTextLocalFunc\bin\Debug\netcoreapp3.1\GetTextLocalFunc.exe
+D:\RnD\csharp8_dev\Microsoft_Docs\LocalFunctions\GetTextLocalFunc\bin\Debug\netcoreapp3.1\GetTextLocalFunc.deps.json
+D:\RnD\csharp8_dev\Microsoft_Docs\LocalFunctions\GetTextLocalFunc\bin\Debug\netcoreapp3.1\GetTextLocalFunc.runtimeconfig.json
+D:\RnD\csharp8_dev\Microsoft_Docs\LocalFunctions\GetTextLocalFunc\bin\Debug\netcoreapp3.1\GetTextLocalFunc.runtimeconfig.dev.json
+D:\RnD\csharp8_dev\Microsoft_Docs\LocalFunctions\GetTextLocalFunc\bin\Debug\netcoreapp3.1\GetTextLocalFunc.dll
+D:\RnD\csharp8_dev\Microsoft_Docs\LocalFunctions\GetTextLocalFunc\bin\Debug\netcoreapp3.1\GetTextLocalFunc.pdb
+D:\RnD\csharp8_dev\Microsoft_Docs\LocalFunctions\GetTextLocalFunc\obj\Debug\netcoreapp3.1\GetTextLocalFunc.csprojAssemblyReference.cache
+D:\RnD\csharp8_dev\Microsoft_Docs\LocalFunctions\GetTextLocalFunc\obj\Debug\netcoreapp3.1\GetTextLocalFunc.csproj.CoreCompileInputs.cache
+D:\RnD\csharp8_dev\Microsoft_Docs\LocalFunctions\GetTextLocalFunc\obj\Debug\netcoreapp3.1\GetTextLocalFunc.AssemblyInfoInputs.cache
+D:\RnD\csharp8_dev\Microsoft_Docs\LocalFunctions\GetTextLocalFunc\obj\Debug\netcoreapp3.1\GetTextLocalFunc.AssemblyInfo.cs
+D:\RnD\csharp8_dev\Microsoft_Docs\LocalFunctions\GetTextLocalFunc\obj\Debug\netcoreapp3.1\GetTextLocalFunc.dll
+D:\RnD\csharp8_dev\Microsoft_Docs\LocalFunctions\GetTextLocalFunc\obj\Debug\netcoreapp3.1\GetTextLocalFunc.pdb
+D:\RnD\csharp8_dev\Microsoft_Docs\LocalFunctions\GetTextLocalFunc\obj\Debug\netcoreapp3.1\GetTextLocalFunc.genruntimeconfig.cache

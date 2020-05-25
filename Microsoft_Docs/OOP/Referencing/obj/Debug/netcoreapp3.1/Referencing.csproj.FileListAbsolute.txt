@@ -1,0 +1,13 @@
+D:\RnD\csharp8_dev\Microsoft_Docs\OOP\Referencing\bin\Debug\netcoreapp3.1\Referencing.exe
+D:\RnD\csharp8_dev\Microsoft_Docs\OOP\Referencing\bin\Debug\netcoreapp3.1\Referencing.deps.json
+D:\RnD\csharp8_dev\Microsoft_Docs\OOP\Referencing\bin\Debug\netcoreapp3.1\Referencing.runtimeconfig.json
+D:\RnD\csharp8_dev\Microsoft_Docs\OOP\Referencing\bin\Debug\netcoreapp3.1\Referencing.runtimeconfig.dev.json
+D:\RnD\csharp8_dev\Microsoft_Docs\OOP\Referencing\bin\Debug\netcoreapp3.1\Referencing.dll
+D:\RnD\csharp8_dev\Microsoft_Docs\OOP\Referencing\bin\Debug\netcoreapp3.1\Referencing.pdb
+D:\RnD\csharp8_dev\Microsoft_Docs\OOP\Referencing\obj\Debug\netcoreapp3.1\Referencing.csprojAssemblyReference.cache
+D:\RnD\csharp8_dev\Microsoft_Docs\OOP\Referencing\obj\Debug\netcoreapp3.1\Referencing.csproj.CoreCompileInputs.cache
+D:\RnD\csharp8_dev\Microsoft_Docs\OOP\Referencing\obj\Debug\netcoreapp3.1\Referencing.AssemblyInfoInputs.cache
+D:\RnD\csharp8_dev\Microsoft_Docs\OOP\Referencing\obj\Debug\netcoreapp3.1\Referencing.AssemblyInfo.cs
+D:\RnD\csharp8_dev\Microsoft_Docs\OOP\Referencing\obj\Debug\netcoreapp3.1\Referencing.dll
+D:\RnD\csharp8_dev\Microsoft_Docs\OOP\Referencing\obj\Debug\netcoreapp3.1\Referencing.pdb
+D:\RnD\csharp8_dev\Microsoft_Docs\OOP\Referencing\obj\Debug\netcoreapp3.1\Referencing.genruntimeconfig.cache

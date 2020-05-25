@@ -1,0 +1,13 @@
+D:\RnD\csharp8_dev\Microsoft_Docs\LocalFunctions\PassingParameters\bin\Debug\netcoreapp3.1\PassingParameters.exe
+D:\RnD\csharp8_dev\Microsoft_Docs\LocalFunctions\PassingParameters\bin\Debug\netcoreapp3.1\PassingParameters.deps.json
+D:\RnD\csharp8_dev\Microsoft_Docs\LocalFunctions\PassingParameters\bin\Debug\netcoreapp3.1\PassingParameters.runtimeconfig.json
+D:\RnD\csharp8_dev\Microsoft_Docs\LocalFunctions\PassingParameters\bin\Debug\netcoreapp3.1\PassingParameters.runtimeconfig.dev.json
+D:\RnD\csharp8_dev\Microsoft_Docs\LocalFunctions\PassingParameters\bin\Debug\netcoreapp3.1\PassingParameters.dll
+D:\RnD\csharp8_dev\Microsoft_Docs\LocalFunctions\PassingParameters\bin\Debug\netcoreapp3.1\PassingParameters.pdb
+D:\RnD\csharp8_dev\Microsoft_Docs\LocalFunctions\PassingParameters\obj\Debug\netcoreapp3.1\PassingParameters.csprojAssemblyReference.cache
+D:\RnD\csharp8_dev\Microsoft_Docs\LocalFunctions\PassingParameters\obj\Debug\netcoreapp3.1\PassingParameters.csproj.CoreCompileInputs.cache
+D:\RnD\csharp8_dev\Microsoft_Docs\LocalFunctions\PassingParameters\obj\Debug\netcoreapp3.1\PassingParameters.AssemblyInfoInputs.cache
+D:\RnD\csharp8_dev\Microsoft_Docs\LocalFunctions\PassingParameters\obj\Debug\netcoreapp3.1\PassingParameters.AssemblyInfo.cs
+D:\RnD\csharp8_dev\Microsoft_Docs\LocalFunctions\PassingParameters\obj\Debug\netcoreapp3.1\PassingParameters.dll
+D:\RnD\csharp8_dev\Microsoft_Docs\LocalFunctions\PassingParameters\obj\Debug\netcoreapp3.1\PassingParameters.pdb
+D:\RnD\csharp8_dev\Microsoft_Docs\LocalFunctions\PassingParameters\obj\Debug\netcoreapp3.1\PassingParameters.genruntimeconfig.cache

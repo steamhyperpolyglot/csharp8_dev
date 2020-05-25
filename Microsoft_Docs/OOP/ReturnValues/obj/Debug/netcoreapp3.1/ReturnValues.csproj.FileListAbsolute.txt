@@ -1,0 +1,13 @@
+D:\RnD\csharp8_dev\Microsoft_Docs\OOP\ReturnValues\bin\Debug\netcoreapp3.1\ReturnValues.exe
+D:\RnD\csharp8_dev\Microsoft_Docs\OOP\ReturnValues\bin\Debug\netcoreapp3.1\ReturnValues.deps.json
+D:\RnD\csharp8_dev\Microsoft_Docs\OOP\ReturnValues\bin\Debug\netcoreapp3.1\ReturnValues.runtimeconfig.json
+D:\RnD\csharp8_dev\Microsoft_Docs\OOP\ReturnValues\bin\Debug\netcoreapp3.1\ReturnValues.runtimeconfig.dev.json
+D:\RnD\csharp8_dev\Microsoft_Docs\OOP\ReturnValues\bin\Debug\netcoreapp3.1\ReturnValues.dll
+D:\RnD\csharp8_dev\Microsoft_Docs\OOP\ReturnValues\bin\Debug\netcoreapp3.1\ReturnValues.pdb
+D:\RnD\csharp8_dev\Microsoft_Docs\OOP\ReturnValues\obj\Debug\netcoreapp3.1\ReturnValues.csprojAssemblyReference.cache
+D:\RnD\csharp8_dev\Microsoft_Docs\OOP\ReturnValues\obj\Debug\netcoreapp3.1\ReturnValues.csproj.CoreCompileInputs.cache
+D:\RnD\csharp8_dev\Microsoft_Docs\OOP\ReturnValues\obj\Debug\netcoreapp3.1\ReturnValues.AssemblyInfoInputs.cache
+D:\RnD\csharp8_dev\Microsoft_Docs\OOP\ReturnValues\obj\Debug\netcoreapp3.1\ReturnValues.AssemblyInfo.cs
+D:\RnD\csharp8_dev\Microsoft_Docs\OOP\ReturnValues\obj\Debug\netcoreapp3.1\ReturnValues.dll
+D:\RnD\csharp8_dev\Microsoft_Docs\OOP\ReturnValues\obj\Debug\netcoreapp3.1\ReturnValues.pdb
+D:\RnD\csharp8_dev\Microsoft_Docs\OOP\ReturnValues\obj\Debug\netcoreapp3.1\ReturnValues.genruntimeconfig.cache

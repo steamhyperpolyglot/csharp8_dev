@@ -1,0 +1,13 @@
+D:\RnD\csharp8_dev\Microsoft_Docs\LocalFunctions\LocalFuncException\bin\Debug\netcoreapp3.1\LocalFuncException.exe
+D:\RnD\csharp8_dev\Microsoft_Docs\LocalFunctions\LocalFuncException\bin\Debug\netcoreapp3.1\LocalFuncException.deps.json
+D:\RnD\csharp8_dev\Microsoft_Docs\LocalFunctions\LocalFuncException\bin\Debug\netcoreapp3.1\LocalFuncException.runtimeconfig.json
+D:\RnD\csharp8_dev\Microsoft_Docs\LocalFunctions\LocalFuncException\bin\Debug\netcoreapp3.1\LocalFuncException.runtimeconfig.dev.json
+D:\RnD\csharp8_dev\Microsoft_Docs\LocalFunctions\LocalFuncException\bin\Debug\netcoreapp3.1\LocalFuncException.dll
+D:\RnD\csharp8_dev\Microsoft_Docs\LocalFunctions\LocalFuncException\bin\Debug\netcoreapp3.1\LocalFuncException.pdb
+D:\RnD\csharp8_dev\Microsoft_Docs\LocalFunctions\LocalFuncException\obj\Debug\netcoreapp3.1\LocalFuncException.csprojAssemblyReference.cache
+D:\RnD\csharp8_dev\Microsoft_Docs\LocalFunctions\LocalFuncException\obj\Debug\netcoreapp3.1\LocalFuncException.csproj.CoreCompileInputs.cache
+D:\RnD\csharp8_dev\Microsoft_Docs\LocalFunctions\LocalFuncException\obj\Debug\netcoreapp3.1\LocalFuncException.AssemblyInfoInputs.cache
+D:\RnD\csharp8_dev\Microsoft_Docs\LocalFunctions\LocalFuncException\obj\Debug\netcoreapp3.1\LocalFuncException.AssemblyInfo.cs
+D:\RnD\csharp8_dev\Microsoft_Docs\LocalFunctions\LocalFuncException\obj\Debug\netcoreapp3.1\LocalFuncException.dll
+D:\RnD\csharp8_dev\Microsoft_Docs\LocalFunctions\LocalFuncException\obj\Debug\netcoreapp3.1\LocalFuncException.pdb
+D:\RnD\csharp8_dev\Microsoft_Docs\LocalFunctions\LocalFuncException\obj\Debug\netcoreapp3.1\LocalFuncException.genruntimeconfig.cache

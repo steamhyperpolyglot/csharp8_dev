@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "GetTextLocalFunc/1.0.0": {
+        "runtime": {
+          "GetTextLocalFunc.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GetTextLocalFunc/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

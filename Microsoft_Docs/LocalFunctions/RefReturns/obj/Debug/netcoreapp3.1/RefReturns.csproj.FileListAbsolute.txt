@@ -1,0 +1,13 @@
+D:\RnD\csharp8_dev\Microsoft_Docs\LocalFunctions\RefReturns\bin\Debug\netcoreapp3.1\RefReturns.exe
+D:\RnD\csharp8_dev\Microsoft_Docs\LocalFunctions\RefReturns\bin\Debug\netcoreapp3.1\RefReturns.deps.json
+D:\RnD\csharp8_dev\Microsoft_Docs\LocalFunctions\RefReturns\bin\Debug\netcoreapp3.1\RefReturns.runtimeconfig.json
+D:\RnD\csharp8_dev\Microsoft_Docs\LocalFunctions\RefReturns\bin\Debug\netcoreapp3.1\RefReturns.runtimeconfig.dev.json
+D:\RnD\csharp8_dev\Microsoft_Docs\LocalFunctions\RefReturns\bin\Debug\netcoreapp3.1\RefReturns.dll
+D:\RnD\csharp8_dev\Microsoft_Docs\LocalFunctions\RefReturns\bin\Debug\netcoreapp3.1\RefReturns.pdb
+D:\RnD\csharp8_dev\Microsoft_Docs\LocalFunctions\RefReturns\obj\Debug\netcoreapp3.1\RefReturns.csprojAssemblyReference.cache
+D:\RnD\csharp8_dev\Microsoft_Docs\LocalFunctions\RefReturns\obj\Debug\netcoreapp3.1\RefReturns.csproj.CoreCompileInputs.cache
+D:\RnD\csharp8_dev\Microsoft_Docs\LocalFunctions\RefReturns\obj\Debug\netcoreapp3.1\RefReturns.AssemblyInfoInputs.cache
+D:\RnD\csharp8_dev\Microsoft_Docs\LocalFunctions\RefReturns\obj\Debug\netcoreapp3.1\RefReturns.AssemblyInfo.cs
+D:\RnD\csharp8_dev\Microsoft_Docs\LocalFunctions\RefReturns\obj\Debug\netcoreapp3.1\RefReturns.dll
+D:\RnD\csharp8_dev\Microsoft_Docs\LocalFunctions\RefReturns\obj\Debug\netcoreapp3.1\RefReturns.pdb
+D:\RnD\csharp8_dev\Microsoft_Docs\LocalFunctions\RefReturns\obj\Debug\netcoreapp3.1\RefReturns.genruntimeconfig.cache
