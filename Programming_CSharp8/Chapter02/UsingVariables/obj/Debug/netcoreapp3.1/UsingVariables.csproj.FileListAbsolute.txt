@@ -1,0 +1,13 @@
+D:\RnD\csharp8_dev\Programming_CSharp8\Chapter02\UsingVariables\bin\Debug\netcoreapp3.1\UsingVariables.exe
+D:\RnD\csharp8_dev\Programming_CSharp8\Chapter02\UsingVariables\bin\Debug\netcoreapp3.1\UsingVariables.deps.json
+D:\RnD\csharp8_dev\Programming_CSharp8\Chapter02\UsingVariables\bin\Debug\netcoreapp3.1\UsingVariables.runtimeconfig.json
+D:\RnD\csharp8_dev\Programming_CSharp8\Chapter02\UsingVariables\bin\Debug\netcoreapp3.1\UsingVariables.runtimeconfig.dev.json
+D:\RnD\csharp8_dev\Programming_CSharp8\Chapter02\UsingVariables\bin\Debug\netcoreapp3.1\UsingVariables.dll
+D:\RnD\csharp8_dev\Programming_CSharp8\Chapter02\UsingVariables\bin\Debug\netcoreapp3.1\UsingVariables.pdb
+D:\RnD\csharp8_dev\Programming_CSharp8\Chapter02\UsingVariables\obj\Debug\netcoreapp3.1\UsingVariables.csprojAssemblyReference.cache
+D:\RnD\csharp8_dev\Programming_CSharp8\Chapter02\UsingVariables\obj\Debug\netcoreapp3.1\UsingVariables.csproj.CoreCompileInputs.cache
+D:\RnD\csharp8_dev\Programming_CSharp8\Chapter02\UsingVariables\obj\Debug\netcoreapp3.1\UsingVariables.AssemblyInfoInputs.cache
+D:\RnD\csharp8_dev\Programming_CSharp8\Chapter02\UsingVariables\obj\Debug\netcoreapp3.1\UsingVariables.AssemblyInfo.cs
+D:\RnD\csharp8_dev\Programming_CSharp8\Chapter02\UsingVariables\obj\Debug\netcoreapp3.1\UsingVariables.dll
+D:\RnD\csharp8_dev\Programming_CSharp8\Chapter02\UsingVariables\obj\Debug\netcoreapp3.1\UsingVariables.pdb
+D:\RnD\csharp8_dev\Programming_CSharp8\Chapter02\UsingVariables\obj\Debug\netcoreapp3.1\UsingVariables.genruntimeconfig.cache

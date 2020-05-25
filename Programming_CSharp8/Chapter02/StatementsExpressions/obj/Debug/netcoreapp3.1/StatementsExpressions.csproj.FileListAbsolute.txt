@@ -1,0 +1,12 @@
+D:\RnD\csharp8_dev\Programming_CSharp8\Chapter02\StatementsExpressions\bin\Debug\netcoreapp3.1\StatementsExpressions.exe
+D:\RnD\csharp8_dev\Programming_CSharp8\Chapter02\StatementsExpressions\bin\Debug\netcoreapp3.1\StatementsExpressions.deps.json
+D:\RnD\csharp8_dev\Programming_CSharp8\Chapter02\StatementsExpressions\bin\Debug\netcoreapp3.1\StatementsExpressions.runtimeconfig.json
+D:\RnD\csharp8_dev\Programming_CSharp8\Chapter02\StatementsExpressions\bin\Debug\netcoreapp3.1\StatementsExpressions.runtimeconfig.dev.json
+D:\RnD\csharp8_dev\Programming_CSharp8\Chapter02\StatementsExpressions\bin\Debug\netcoreapp3.1\StatementsExpressions.dll
+D:\RnD\csharp8_dev\Programming_CSharp8\Chapter02\StatementsExpressions\bin\Debug\netcoreapp3.1\StatementsExpressions.pdb
+D:\RnD\csharp8_dev\Programming_CSharp8\Chapter02\StatementsExpressions\obj\Debug\netcoreapp3.1\StatementsExpressions.csproj.CoreCompileInputs.cache
+D:\RnD\csharp8_dev\Programming_CSharp8\Chapter02\StatementsExpressions\obj\Debug\netcoreapp3.1\StatementsExpressions.AssemblyInfoInputs.cache
+D:\RnD\csharp8_dev\Programming_CSharp8\Chapter02\StatementsExpressions\obj\Debug\netcoreapp3.1\StatementsExpressions.AssemblyInfo.cs
+D:\RnD\csharp8_dev\Programming_CSharp8\Chapter02\StatementsExpressions\obj\Debug\netcoreapp3.1\StatementsExpressions.dll
+D:\RnD\csharp8_dev\Programming_CSharp8\Chapter02\StatementsExpressions\obj\Debug\netcoreapp3.1\StatementsExpressions.pdb
+D:\RnD\csharp8_dev\Programming_CSharp8\Chapter02\StatementsExpressions\obj\Debug\netcoreapp3.1\StatementsExpressions.genruntimeconfig.cache
