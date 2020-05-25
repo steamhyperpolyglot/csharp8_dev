@@ -1,0 +1,13 @@
+D:\RnD\csharp8_dev\Microsoft_Docs\OOP\Fill2DMatrix\bin\Debug\netcoreapp3.1\Fill2DMatrix.exe
+D:\RnD\csharp8_dev\Microsoft_Docs\OOP\Fill2DMatrix\bin\Debug\netcoreapp3.1\Fill2DMatrix.deps.json
+D:\RnD\csharp8_dev\Microsoft_Docs\OOP\Fill2DMatrix\bin\Debug\netcoreapp3.1\Fill2DMatrix.runtimeconfig.json
+D:\RnD\csharp8_dev\Microsoft_Docs\OOP\Fill2DMatrix\bin\Debug\netcoreapp3.1\Fill2DMatrix.runtimeconfig.dev.json
+D:\RnD\csharp8_dev\Microsoft_Docs\OOP\Fill2DMatrix\bin\Debug\netcoreapp3.1\Fill2DMatrix.dll
+D:\RnD\csharp8_dev\Microsoft_Docs\OOP\Fill2DMatrix\bin\Debug\netcoreapp3.1\Fill2DMatrix.pdb
+D:\RnD\csharp8_dev\Microsoft_Docs\OOP\Fill2DMatrix\obj\Debug\netcoreapp3.1\Fill2DMatrix.csprojAssemblyReference.cache
+D:\RnD\csharp8_dev\Microsoft_Docs\OOP\Fill2DMatrix\obj\Debug\netcoreapp3.1\Fill2DMatrix.csproj.CoreCompileInputs.cache
+D:\RnD\csharp8_dev\Microsoft_Docs\OOP\Fill2DMatrix\obj\Debug\netcoreapp3.1\Fill2DMatrix.AssemblyInfoInputs.cache
+D:\RnD\csharp8_dev\Microsoft_Docs\OOP\Fill2DMatrix\obj\Debug\netcoreapp3.1\Fill2DMatrix.AssemblyInfo.cs
+D:\RnD\csharp8_dev\Microsoft_Docs\OOP\Fill2DMatrix\obj\Debug\netcoreapp3.1\Fill2DMatrix.dll
+D:\RnD\csharp8_dev\Microsoft_Docs\OOP\Fill2DMatrix\obj\Debug\netcoreapp3.1\Fill2DMatrix.pdb
+D:\RnD\csharp8_dev\Microsoft_Docs\OOP\Fill2DMatrix\obj\Debug\netcoreapp3.1\Fill2DMatrix.genruntimeconfig.cache
