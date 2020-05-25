@@ -1,0 +1,13 @@
+D:\RnD\csharp8_dev\Programming_CSharp8\Chapter02\UsingTuples\bin\Debug\netcoreapp3.1\UsingTuples.exe
+D:\RnD\csharp8_dev\Programming_CSharp8\Chapter02\UsingTuples\bin\Debug\netcoreapp3.1\UsingTuples.deps.json
+D:\RnD\csharp8_dev\Programming_CSharp8\Chapter02\UsingTuples\bin\Debug\netcoreapp3.1\UsingTuples.runtimeconfig.json
+D:\RnD\csharp8_dev\Programming_CSharp8\Chapter02\UsingTuples\bin\Debug\netcoreapp3.1\UsingTuples.runtimeconfig.dev.json
+D:\RnD\csharp8_dev\Programming_CSharp8\Chapter02\UsingTuples\bin\Debug\netcoreapp3.1\UsingTuples.dll
+D:\RnD\csharp8_dev\Programming_CSharp8\Chapter02\UsingTuples\bin\Debug\netcoreapp3.1\UsingTuples.pdb
+D:\RnD\csharp8_dev\Programming_CSharp8\Chapter02\UsingTuples\obj\Debug\netcoreapp3.1\UsingTuples.csprojAssemblyReference.cache
+D:\RnD\csharp8_dev\Programming_CSharp8\Chapter02\UsingTuples\obj\Debug\netcoreapp3.1\UsingTuples.csproj.CoreCompileInputs.cache
+D:\RnD\csharp8_dev\Programming_CSharp8\Chapter02\UsingTuples\obj\Debug\netcoreapp3.1\UsingTuples.AssemblyInfoInputs.cache
+D:\RnD\csharp8_dev\Programming_CSharp8\Chapter02\UsingTuples\obj\Debug\netcoreapp3.1\UsingTuples.AssemblyInfo.cs
+D:\RnD\csharp8_dev\Programming_CSharp8\Chapter02\UsingTuples\obj\Debug\netcoreapp3.1\UsingTuples.dll
+D:\RnD\csharp8_dev\Programming_CSharp8\Chapter02\UsingTuples\obj\Debug\netcoreapp3.1\UsingTuples.pdb
+D:\RnD\csharp8_dev\Programming_CSharp8\Chapter02\UsingTuples\obj\Debug\netcoreapp3.1\UsingTuples.genruntimeconfig.cache

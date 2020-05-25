@@ -1,0 +1,13 @@
+D:\RnD\csharp8_dev\Programming_CSharp8\Chapter02\UsingBigInteger\bin\Debug\netcoreapp3.1\UsingBigInteger.exe
+D:\RnD\csharp8_dev\Programming_CSharp8\Chapter02\UsingBigInteger\bin\Debug\netcoreapp3.1\UsingBigInteger.deps.json
+D:\RnD\csharp8_dev\Programming_CSharp8\Chapter02\UsingBigInteger\bin\Debug\netcoreapp3.1\UsingBigInteger.runtimeconfig.json
+D:\RnD\csharp8_dev\Programming_CSharp8\Chapter02\UsingBigInteger\bin\Debug\netcoreapp3.1\UsingBigInteger.runtimeconfig.dev.json
+D:\RnD\csharp8_dev\Programming_CSharp8\Chapter02\UsingBigInteger\bin\Debug\netcoreapp3.1\UsingBigInteger.dll
+D:\RnD\csharp8_dev\Programming_CSharp8\Chapter02\UsingBigInteger\bin\Debug\netcoreapp3.1\UsingBigInteger.pdb
+D:\RnD\csharp8_dev\Programming_CSharp8\Chapter02\UsingBigInteger\obj\Debug\netcoreapp3.1\UsingBigInteger.csprojAssemblyReference.cache
+D:\RnD\csharp8_dev\Programming_CSharp8\Chapter02\UsingBigInteger\obj\Debug\netcoreapp3.1\UsingBigInteger.csproj.CoreCompileInputs.cache
+D:\RnD\csharp8_dev\Programming_CSharp8\Chapter02\UsingBigInteger\obj\Debug\netcoreapp3.1\UsingBigInteger.AssemblyInfoInputs.cache
+D:\RnD\csharp8_dev\Programming_CSharp8\Chapter02\UsingBigInteger\obj\Debug\netcoreapp3.1\UsingBigInteger.AssemblyInfo.cs
+D:\RnD\csharp8_dev\Programming_CSharp8\Chapter02\UsingBigInteger\obj\Debug\netcoreapp3.1\UsingBigInteger.dll
+D:\RnD\csharp8_dev\Programming_CSharp8\Chapter02\UsingBigInteger\obj\Debug\netcoreapp3.1\UsingBigInteger.pdb
+D:\RnD\csharp8_dev\Programming_CSharp8\Chapter02\UsingBigInteger\obj\Debug\netcoreapp3.1\UsingBigInteger.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\RnD\csharp8_dev\Programming_CSharp8\Chapter02\FormattingDataInStrings\bin\Debug\netcoreapp3.1\FormattingDataInStrings.exe
+D:\RnD\csharp8_dev\Programming_CSharp8\Chapter02\FormattingDataInStrings\bin\Debug\netcoreapp3.1\FormattingDataInStrings.deps.json
+D:\RnD\csharp8_dev\Programming_CSharp8\Chapter02\FormattingDataInStrings\bin\Debug\netcoreapp3.1\FormattingDataInStrings.runtimeconfig.json
+D:\RnD\csharp8_dev\Programming_CSharp8\Chapter02\FormattingDataInStrings\bin\Debug\netcoreapp3.1\FormattingDataInStrings.runtimeconfig.dev.json
+D:\RnD\csharp8_dev\Programming_CSharp8\Chapter02\FormattingDataInStrings\bin\Debug\netcoreapp3.1\FormattingDataInStrings.dll
+D:\RnD\csharp8_dev\Programming_CSharp8\Chapter02\FormattingDataInStrings\bin\Debug\netcoreapp3.1\FormattingDataInStrings.pdb
+D:\RnD\csharp8_dev\Programming_CSharp8\Chapter02\FormattingDataInStrings\obj\Debug\netcoreapp3.1\FormattingDataInStrings.csprojAssemblyReference.cache
+D:\RnD\csharp8_dev\Programming_CSharp8\Chapter02\FormattingDataInStrings\obj\Debug\netcoreapp3.1\FormattingDataInStrings.csproj.CoreCompileInputs.cache
+D:\RnD\csharp8_dev\Programming_CSharp8\Chapter02\FormattingDataInStrings\obj\Debug\netcoreapp3.1\FormattingDataInStrings.AssemblyInfoInputs.cache
+D:\RnD\csharp8_dev\Programming_CSharp8\Chapter02\FormattingDataInStrings\obj\Debug\netcoreapp3.1\FormattingDataInStrings.AssemblyInfo.cs
+D:\RnD\csharp8_dev\Programming_CSharp8\Chapter02\FormattingDataInStrings\obj\Debug\netcoreapp3.1\FormattingDataInStrings.dll
+D:\RnD\csharp8_dev\Programming_CSharp8\Chapter02\FormattingDataInStrings\obj\Debug\netcoreapp3.1\FormattingDataInStrings.pdb
+D:\RnD\csharp8_dev\Programming_CSharp8\Chapter02\FormattingDataInStrings\obj\Debug\netcoreapp3.1\FormattingDataInStrings.genruntimeconfig.cache

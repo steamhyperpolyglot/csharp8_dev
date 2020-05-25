@@ -1,0 +1,13 @@
+D:\RnD\csharp8_dev\Programming_CSharp8\Chapter02\ImplicitConversions\bin\Debug\netcoreapp3.1\ImplicitConversions.exe
+D:\RnD\csharp8_dev\Programming_CSharp8\Chapter02\ImplicitConversions\bin\Debug\netcoreapp3.1\ImplicitConversions.deps.json
+D:\RnD\csharp8_dev\Programming_CSharp8\Chapter02\ImplicitConversions\bin\Debug\netcoreapp3.1\ImplicitConversions.runtimeconfig.json
+D:\RnD\csharp8_dev\Programming_CSharp8\Chapter02\ImplicitConversions\bin\Debug\netcoreapp3.1\ImplicitConversions.runtimeconfig.dev.json
+D:\RnD\csharp8_dev\Programming_CSharp8\Chapter02\ImplicitConversions\bin\Debug\netcoreapp3.1\ImplicitConversions.dll
+D:\RnD\csharp8_dev\Programming_CSharp8\Chapter02\ImplicitConversions\bin\Debug\netcoreapp3.1\ImplicitConversions.pdb
+D:\RnD\csharp8_dev\Programming_CSharp8\Chapter02\ImplicitConversions\obj\Debug\netcoreapp3.1\ImplicitConversions.csprojAssemblyReference.cache
+D:\RnD\csharp8_dev\Programming_CSharp8\Chapter02\ImplicitConversions\obj\Debug\netcoreapp3.1\ImplicitConversions.csproj.CoreCompileInputs.cache
+D:\RnD\csharp8_dev\Programming_CSharp8\Chapter02\ImplicitConversions\obj\Debug\netcoreapp3.1\ImplicitConversions.AssemblyInfoInputs.cache
+D:\RnD\csharp8_dev\Programming_CSharp8\Chapter02\ImplicitConversions\obj\Debug\netcoreapp3.1\ImplicitConversions.AssemblyInfo.cs
+D:\RnD\csharp8_dev\Programming_CSharp8\Chapter02\ImplicitConversions\obj\Debug\netcoreapp3.1\ImplicitConversions.dll
+D:\RnD\csharp8_dev\Programming_CSharp8\Chapter02\ImplicitConversions\obj\Debug\netcoreapp3.1\ImplicitConversions.pdb
+D:\RnD\csharp8_dev\Programming_CSharp8\Chapter02\ImplicitConversions\obj\Debug\netcoreapp3.1\ImplicitConversions.genruntimeconfig.cache

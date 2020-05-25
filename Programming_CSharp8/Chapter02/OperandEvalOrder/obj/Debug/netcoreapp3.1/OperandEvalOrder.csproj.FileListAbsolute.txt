@@ -1,0 +1,13 @@
+D:\RnD\csharp8_dev\Programming_CSharp8\Chapter02\OperandEvalOrder\bin\Debug\netcoreapp3.1\OperandEvalOrder.exe
+D:\RnD\csharp8_dev\Programming_CSharp8\Chapter02\OperandEvalOrder\bin\Debug\netcoreapp3.1\OperandEvalOrder.deps.json
+D:\RnD\csharp8_dev\Programming_CSharp8\Chapter02\OperandEvalOrder\bin\Debug\netcoreapp3.1\OperandEvalOrder.runtimeconfig.json
+D:\RnD\csharp8_dev\Programming_CSharp8\Chapter02\OperandEvalOrder\bin\Debug\netcoreapp3.1\OperandEvalOrder.runtimeconfig.dev.json
+D:\RnD\csharp8_dev\Programming_CSharp8\Chapter02\OperandEvalOrder\bin\Debug\netcoreapp3.1\OperandEvalOrder.dll
+D:\RnD\csharp8_dev\Programming_CSharp8\Chapter02\OperandEvalOrder\bin\Debug\netcoreapp3.1\OperandEvalOrder.pdb
+D:\RnD\csharp8_dev\Programming_CSharp8\Chapter02\OperandEvalOrder\obj\Debug\netcoreapp3.1\OperandEvalOrder.csprojAssemblyReference.cache
+D:\RnD\csharp8_dev\Programming_CSharp8\Chapter02\OperandEvalOrder\obj\Debug\netcoreapp3.1\OperandEvalOrder.csproj.CoreCompileInputs.cache
+D:\RnD\csharp8_dev\Programming_CSharp8\Chapter02\OperandEvalOrder\obj\Debug\netcoreapp3.1\OperandEvalOrder.AssemblyInfoInputs.cache
+D:\RnD\csharp8_dev\Programming_CSharp8\Chapter02\OperandEvalOrder\obj\Debug\netcoreapp3.1\OperandEvalOrder.AssemblyInfo.cs
+D:\RnD\csharp8_dev\Programming_CSharp8\Chapter02\OperandEvalOrder\obj\Debug\netcoreapp3.1\OperandEvalOrder.dll
+D:\RnD\csharp8_dev\Programming_CSharp8\Chapter02\OperandEvalOrder\obj\Debug\netcoreapp3.1\OperandEvalOrder.pdb
+D:\RnD\csharp8_dev\Programming_CSharp8\Chapter02\OperandEvalOrder\obj\Debug\netcoreapp3.1\OperandEvalOrder.genruntimeconfig.cache
