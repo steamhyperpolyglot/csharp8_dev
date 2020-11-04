@@ -1,0 +1,13 @@
+D:\RnD\csharp8_dev\Microsoft_Docs\LocalFunctions\SwapReferenceValues\bin\Debug\netcoreapp3.1\SwapReferenceValues.exe
+D:\RnD\csharp8_dev\Microsoft_Docs\LocalFunctions\SwapReferenceValues\bin\Debug\netcoreapp3.1\SwapReferenceValues.deps.json
+D:\RnD\csharp8_dev\Microsoft_Docs\LocalFunctions\SwapReferenceValues\bin\Debug\netcoreapp3.1\SwapReferenceValues.runtimeconfig.json
+D:\RnD\csharp8_dev\Microsoft_Docs\LocalFunctions\SwapReferenceValues\bin\Debug\netcoreapp3.1\SwapReferenceValues.runtimeconfig.dev.json
+D:\RnD\csharp8_dev\Microsoft_Docs\LocalFunctions\SwapReferenceValues\bin\Debug\netcoreapp3.1\SwapReferenceValues.dll
+D:\RnD\csharp8_dev\Microsoft_Docs\LocalFunctions\SwapReferenceValues\bin\Debug\netcoreapp3.1\SwapReferenceValues.pdb
+D:\RnD\csharp8_dev\Microsoft_Docs\LocalFunctions\SwapReferenceValues\obj\Debug\netcoreapp3.1\SwapReferenceValues.csprojAssemblyReference.cache
+D:\RnD\csharp8_dev\Microsoft_Docs\LocalFunctions\SwapReferenceValues\obj\Debug\netcoreapp3.1\SwapReferenceValues.csproj.CoreCompileInputs.cache
+D:\RnD\csharp8_dev\Microsoft_Docs\LocalFunctions\SwapReferenceValues\obj\Debug\netcoreapp3.1\SwapReferenceValues.AssemblyInfoInputs.cache
+D:\RnD\csharp8_dev\Microsoft_Docs\LocalFunctions\SwapReferenceValues\obj\Debug\netcoreapp3.1\SwapReferenceValues.AssemblyInfo.cs
+D:\RnD\csharp8_dev\Microsoft_Docs\LocalFunctions\SwapReferenceValues\obj\Debug\netcoreapp3.1\SwapReferenceValues.dll
+D:\RnD\csharp8_dev\Microsoft_Docs\LocalFunctions\SwapReferenceValues\obj\Debug\netcoreapp3.1\SwapReferenceValues.pdb
+D:\RnD\csharp8_dev\Microsoft_Docs\LocalFunctions\SwapReferenceValues\obj\Debug\netcoreapp3.1\SwapReferenceValues.genruntimeconfig.cache

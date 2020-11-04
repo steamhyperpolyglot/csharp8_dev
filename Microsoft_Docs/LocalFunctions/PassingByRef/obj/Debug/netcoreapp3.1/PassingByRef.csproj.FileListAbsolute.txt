@@ -1,0 +1,13 @@
+D:\RnD\csharp8_dev\Microsoft_Docs\LocalFunctions\PassingByRef\bin\Debug\netcoreapp3.1\PassingByRef.exe
+D:\RnD\csharp8_dev\Microsoft_Docs\LocalFunctions\PassingByRef\bin\Debug\netcoreapp3.1\PassingByRef.deps.json
+D:\RnD\csharp8_dev\Microsoft_Docs\LocalFunctions\PassingByRef\bin\Debug\netcoreapp3.1\PassingByRef.runtimeconfig.json
+D:\RnD\csharp8_dev\Microsoft_Docs\LocalFunctions\PassingByRef\bin\Debug\netcoreapp3.1\PassingByRef.runtimeconfig.dev.json
+D:\RnD\csharp8_dev\Microsoft_Docs\LocalFunctions\PassingByRef\bin\Debug\netcoreapp3.1\PassingByRef.dll
+D:\RnD\csharp8_dev\Microsoft_Docs\LocalFunctions\PassingByRef\bin\Debug\netcoreapp3.1\PassingByRef.pdb
+D:\RnD\csharp8_dev\Microsoft_Docs\LocalFunctions\PassingByRef\obj\Debug\netcoreapp3.1\PassingByRef.csprojAssemblyReference.cache
+D:\RnD\csharp8_dev\Microsoft_Docs\LocalFunctions\PassingByRef\obj\Debug\netcoreapp3.1\PassingByRef.csproj.CoreCompileInputs.cache
+D:\RnD\csharp8_dev\Microsoft_Docs\LocalFunctions\PassingByRef\obj\Debug\netcoreapp3.1\PassingByRef.AssemblyInfoInputs.cache
+D:\RnD\csharp8_dev\Microsoft_Docs\LocalFunctions\PassingByRef\obj\Debug\netcoreapp3.1\PassingByRef.AssemblyInfo.cs
+D:\RnD\csharp8_dev\Microsoft_Docs\LocalFunctions\PassingByRef\obj\Debug\netcoreapp3.1\PassingByRef.dll
+D:\RnD\csharp8_dev\Microsoft_Docs\LocalFunctions\PassingByRef\obj\Debug\netcoreapp3.1\PassingByRef.pdb
+D:\RnD\csharp8_dev\Microsoft_Docs\LocalFunctions\PassingByRef\obj\Debug\netcoreapp3.1\PassingByRef.genruntimeconfig.cache
