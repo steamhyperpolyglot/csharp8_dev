@@ -1,10 +1,10 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "D:\\RnD\\csharp8_dev\\CSharp8_Pocket_Ref\\Introduction\\BreakEx\\BreakEx.csproj",
-    "projectName": "BreakEx",
-    "projectPath": "D:\\RnD\\csharp8_dev\\CSharp8_Pocket_Ref\\Introduction\\BreakEx\\BreakEx.csproj",
-    "outputPath": "D:\\RnD\\csharp8_dev\\CSharp8_Pocket_Ref\\Introduction\\BreakEx\\obj\\",
+    "projectUniqueName": "D:\\RnD\\csharp8_dev\\CSharp8_Pocket_Ref\\Introduction\\WhileLoopEx\\WhileLoopEx.csproj",
+    "projectName": "WhileLoopEx",
+    "projectPath": "D:\\RnD\\csharp8_dev\\CSharp8_Pocket_Ref\\Introduction\\WhileLoopEx\\WhileLoopEx.csproj",
+    "outputPath": "D:\\RnD\\csharp8_dev\\CSharp8_Pocket_Ref\\Introduction\\WhileLoopEx\\obj\\",
     "projectStyle": "PackageReference",
     "fallbackFolders": [
       "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

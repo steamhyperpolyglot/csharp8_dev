@@ -6,7 +6,15 @@ namespace BreakEx
 	{
 		static void Main ( string [] args )
 		{
-			Console.WriteLine ( "Hello World!" );
+			int x = 0;
+
+			while ( true )
+			{
+				if ( x++ > 5 ) break;		// break from the loop
+			}
+			
+			// execution continues here after break
+			// ...
 		}
 	}
 }

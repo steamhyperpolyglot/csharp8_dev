@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/btZpXmrY6i+1Rhz4XC1mTF8mnHihZgyjmF+b0gSjFN46OZlDM15doNVlY772djtbBMFSqRezq/2NcCpOMO/kA==",
+  "dgSpecHash": "cP39ts8PxdaMMtwbKkjR07na8N3qxKLrkP+Abse4K6+yfHflPwsR8fR5NbhtcUa11KmZiwsOiQ3qsPYKQ4pH0g==",
   "success": true,
-  "projectFilePath": "D:\\RnD\\csharp8_dev\\CSharp8_Pocket_Ref\\Introduction\\BreakEx\\BreakEx.vbproj",
+  "projectFilePath": "D:\\RnD\\csharp8_dev\\CSharp8_Pocket_Ref\\Introduction\\BreakEx\\BreakEx.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

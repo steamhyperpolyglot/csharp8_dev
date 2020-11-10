@@ -6,7 +6,8 @@ namespace ForEachEx
 	{
 		static void Main ( string [] args )
 		{
-			Console.WriteLine ( "Hello World!" );
+			foreach ( char c in "beer" )
+				Console.WriteLine ( c + " " );
 		}
 	}
 }

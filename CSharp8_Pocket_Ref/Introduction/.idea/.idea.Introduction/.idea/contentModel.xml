@@ -51,6 +51,18 @@
           <e p="AssemblyInfo.cs" t="Include" />
         </e>
       </e>
+      <e p="BreakEx" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="BreakEx.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="BreakEx.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+      </e>
       <e p="CasesStacked" t="IncludeRecursive">
         <e p="bin" t="ExcludeRecursive" />
         <e p="CasesStacked.csproj" t="IncludeRecursive" />
@@ -59,6 +71,18 @@
         <e p="Properties" t="Include">
           <e p="AssemblyInfo.cs" t="Include" />
         </e>
+      </e>
+      <e p="ContinueEx" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="ContinueEx.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="ContinueEx.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
       </e>
       <e p="CustomTypesEx" t="IncludeRecursive">
         <e p="bin" t="ExcludeRecursive" />
@@ -69,6 +93,18 @@
           <e p="AssemblyInfo.cs" t="Include" />
         </e>
       </e>
+      <e p="DoWhileEx" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="DoWhileEx.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="DoWhileEx.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+      </e>
       <e p="FirstExample" t="IncludeRecursive">
         <e p="bin" t="ExcludeRecursive" />
         <e p="FirstExample.csproj" t="IncludeRecursive" />
@@ -77,6 +113,42 @@
         <e p="Properties" t="Include">
           <e p="AssemblyInfo.cs" t="Include" />
         </e>
+      </e>
+      <e p="ForEachEx" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="ForEachEx.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="ForEachEx.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+      </e>
+      <e p="ForLoopEx" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="ForLoopEx.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="ForLoopEx.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+      </e>
+      <e p="ForMultiConditionsEx" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="ForMultiConditionsEx.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="ForMultiConditionsEx.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
       </e>
       <e p="IfElseEx" t="IncludeRecursive">
         <e p="bin" t="ExcludeRecursive" />
@@ -206,6 +278,18 @@
           <e p="AssemblyInfo.cs" t="Include" />
         </e>
         <e p="SwitchTuples.csproj" t="IncludeRecursive" />
+      </e>
+      <e p="WhileLoopEx" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="WhileLoopEx.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="WhileLoopEx.csproj" t="IncludeRecursive" />
       </e>
       <e p="WorkingWithStrings" t="IncludeRecursive">
         <e p="bin" t="ExcludeRecursive" />

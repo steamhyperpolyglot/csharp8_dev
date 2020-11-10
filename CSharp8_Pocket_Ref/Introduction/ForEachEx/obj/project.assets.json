@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\RnD\\csharp8_dev\\CSharp8_Pocket_Ref\\Introduction\\BreakEx\\BreakEx.csproj",
-      "projectName": "BreakEx",
-      "projectPath": "D:\\RnD\\csharp8_dev\\CSharp8_Pocket_Ref\\Introduction\\BreakEx\\BreakEx.csproj",
+      "projectUniqueName": "D:\\RnD\\csharp8_dev\\CSharp8_Pocket_Ref\\Introduction\\ForEachEx\\ForEachEx.csproj",
+      "projectName": "ForEachEx",
+      "projectPath": "D:\\RnD\\csharp8_dev\\CSharp8_Pocket_Ref\\Introduction\\ForEachEx\\ForEachEx.csproj",
       "packagesPath": "C:\\Users\\steam.hyperpolyglot\\.nuget\\packages\\",
-      "outputPath": "D:\\RnD\\csharp8_dev\\CSharp8_Pocket_Ref\\Introduction\\BreakEx\\obj\\",
+      "outputPath": "D:\\RnD\\csharp8_dev\\CSharp8_Pocket_Ref\\Introduction\\ForEachEx\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
