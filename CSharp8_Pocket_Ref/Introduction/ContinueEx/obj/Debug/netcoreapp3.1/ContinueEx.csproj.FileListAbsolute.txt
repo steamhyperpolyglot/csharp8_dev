@@ -1,0 +1,13 @@
+D:\RnD\csharp8_dev\CSharp8_Pocket_Ref\Introduction\ContinueEx\bin\Debug\netcoreapp3.1\ContinueEx.exe
+D:\RnD\csharp8_dev\CSharp8_Pocket_Ref\Introduction\ContinueEx\bin\Debug\netcoreapp3.1\ContinueEx.deps.json
+D:\RnD\csharp8_dev\CSharp8_Pocket_Ref\Introduction\ContinueEx\bin\Debug\netcoreapp3.1\ContinueEx.runtimeconfig.json
+D:\RnD\csharp8_dev\CSharp8_Pocket_Ref\Introduction\ContinueEx\bin\Debug\netcoreapp3.1\ContinueEx.runtimeconfig.dev.json
+D:\RnD\csharp8_dev\CSharp8_Pocket_Ref\Introduction\ContinueEx\bin\Debug\netcoreapp3.1\ContinueEx.dll
+D:\RnD\csharp8_dev\CSharp8_Pocket_Ref\Introduction\ContinueEx\bin\Debug\netcoreapp3.1\ContinueEx.pdb
+D:\RnD\csharp8_dev\CSharp8_Pocket_Ref\Introduction\ContinueEx\obj\Debug\netcoreapp3.1\ContinueEx.csprojAssemblyReference.cache
+D:\RnD\csharp8_dev\CSharp8_Pocket_Ref\Introduction\ContinueEx\obj\Debug\netcoreapp3.1\ContinueEx.AssemblyInfoInputs.cache
+D:\RnD\csharp8_dev\CSharp8_Pocket_Ref\Introduction\ContinueEx\obj\Debug\netcoreapp3.1\ContinueEx.AssemblyInfo.cs
+D:\RnD\csharp8_dev\CSharp8_Pocket_Ref\Introduction\ContinueEx\obj\Debug\netcoreapp3.1\ContinueEx.csproj.CoreCompileInputs.cache
+D:\RnD\csharp8_dev\CSharp8_Pocket_Ref\Introduction\ContinueEx\obj\Debug\netcoreapp3.1\ContinueEx.dll
+D:\RnD\csharp8_dev\CSharp8_Pocket_Ref\Introduction\ContinueEx\obj\Debug\netcoreapp3.1\ContinueEx.pdb
+D:\RnD\csharp8_dev\CSharp8_Pocket_Ref\Introduction\ContinueEx\obj\Debug\netcoreapp3.1\ContinueEx.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\RnD\csharp8_dev\CSharp8_Pocket_Ref\Introduction\BreakEx\bin\Debug\netcoreapp3.1\BreakEx.exe
+D:\RnD\csharp8_dev\CSharp8_Pocket_Ref\Introduction\BreakEx\bin\Debug\netcoreapp3.1\BreakEx.deps.json
+D:\RnD\csharp8_dev\CSharp8_Pocket_Ref\Introduction\BreakEx\bin\Debug\netcoreapp3.1\BreakEx.runtimeconfig.json
+D:\RnD\csharp8_dev\CSharp8_Pocket_Ref\Introduction\BreakEx\bin\Debug\netcoreapp3.1\BreakEx.runtimeconfig.dev.json
+D:\RnD\csharp8_dev\CSharp8_Pocket_Ref\Introduction\BreakEx\bin\Debug\netcoreapp3.1\BreakEx.dll
+D:\RnD\csharp8_dev\CSharp8_Pocket_Ref\Introduction\BreakEx\bin\Debug\netcoreapp3.1\BreakEx.pdb
+D:\RnD\csharp8_dev\CSharp8_Pocket_Ref\Introduction\BreakEx\obj\Debug\netcoreapp3.1\BreakEx.csprojAssemblyReference.cache
+D:\RnD\csharp8_dev\CSharp8_Pocket_Ref\Introduction\BreakEx\obj\Debug\netcoreapp3.1\BreakEx.AssemblyInfoInputs.cache
+D:\RnD\csharp8_dev\CSharp8_Pocket_Ref\Introduction\BreakEx\obj\Debug\netcoreapp3.1\BreakEx.AssemblyInfo.cs
+D:\RnD\csharp8_dev\CSharp8_Pocket_Ref\Introduction\BreakEx\obj\Debug\netcoreapp3.1\BreakEx.csproj.CoreCompileInputs.cache
+D:\RnD\csharp8_dev\CSharp8_Pocket_Ref\Introduction\BreakEx\obj\Debug\netcoreapp3.1\BreakEx.dll
+D:\RnD\csharp8_dev\CSharp8_Pocket_Ref\Introduction\BreakEx\obj\Debug\netcoreapp3.1\BreakEx.pdb
+D:\RnD\csharp8_dev\CSharp8_Pocket_Ref\Introduction\BreakEx\obj\Debug\netcoreapp3.1\BreakEx.genruntimeconfig.cache

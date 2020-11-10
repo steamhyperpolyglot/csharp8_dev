@@ -1,0 +1,13 @@
+D:\RnD\csharp8_dev\CSharp8_Pocket_Ref\Introduction\ForLoopEx\bin\Debug\netcoreapp3.1\ForLoopEx.exe
+D:\RnD\csharp8_dev\CSharp8_Pocket_Ref\Introduction\ForLoopEx\bin\Debug\netcoreapp3.1\ForLoopEx.deps.json
+D:\RnD\csharp8_dev\CSharp8_Pocket_Ref\Introduction\ForLoopEx\bin\Debug\netcoreapp3.1\ForLoopEx.runtimeconfig.json
+D:\RnD\csharp8_dev\CSharp8_Pocket_Ref\Introduction\ForLoopEx\bin\Debug\netcoreapp3.1\ForLoopEx.runtimeconfig.dev.json
+D:\RnD\csharp8_dev\CSharp8_Pocket_Ref\Introduction\ForLoopEx\bin\Debug\netcoreapp3.1\ForLoopEx.dll
+D:\RnD\csharp8_dev\CSharp8_Pocket_Ref\Introduction\ForLoopEx\bin\Debug\netcoreapp3.1\ForLoopEx.pdb
+D:\RnD\csharp8_dev\CSharp8_Pocket_Ref\Introduction\ForLoopEx\obj\Debug\netcoreapp3.1\ForLoopEx.csprojAssemblyReference.cache
+D:\RnD\csharp8_dev\CSharp8_Pocket_Ref\Introduction\ForLoopEx\obj\Debug\netcoreapp3.1\ForLoopEx.AssemblyInfoInputs.cache
+D:\RnD\csharp8_dev\CSharp8_Pocket_Ref\Introduction\ForLoopEx\obj\Debug\netcoreapp3.1\ForLoopEx.AssemblyInfo.cs
+D:\RnD\csharp8_dev\CSharp8_Pocket_Ref\Introduction\ForLoopEx\obj\Debug\netcoreapp3.1\ForLoopEx.csproj.CoreCompileInputs.cache
+D:\RnD\csharp8_dev\CSharp8_Pocket_Ref\Introduction\ForLoopEx\obj\Debug\netcoreapp3.1\ForLoopEx.dll
+D:\RnD\csharp8_dev\CSharp8_Pocket_Ref\Introduction\ForLoopEx\obj\Debug\netcoreapp3.1\ForLoopEx.pdb
+D:\RnD\csharp8_dev\CSharp8_Pocket_Ref\Introduction\ForLoopEx\obj\Debug\netcoreapp3.1\ForLoopEx.genruntimeconfig.cache

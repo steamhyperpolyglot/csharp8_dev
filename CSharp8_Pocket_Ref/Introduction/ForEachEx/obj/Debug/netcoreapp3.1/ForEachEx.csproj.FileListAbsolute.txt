@@ -1,0 +1,13 @@
+D:\RnD\csharp8_dev\CSharp8_Pocket_Ref\Introduction\ForEachEx\bin\Debug\netcoreapp3.1\ForEachEx.exe
+D:\RnD\csharp8_dev\CSharp8_Pocket_Ref\Introduction\ForEachEx\bin\Debug\netcoreapp3.1\ForEachEx.deps.json
+D:\RnD\csharp8_dev\CSharp8_Pocket_Ref\Introduction\ForEachEx\bin\Debug\netcoreapp3.1\ForEachEx.runtimeconfig.json
+D:\RnD\csharp8_dev\CSharp8_Pocket_Ref\Introduction\ForEachEx\bin\Debug\netcoreapp3.1\ForEachEx.runtimeconfig.dev.json
+D:\RnD\csharp8_dev\CSharp8_Pocket_Ref\Introduction\ForEachEx\bin\Debug\netcoreapp3.1\ForEachEx.dll
+D:\RnD\csharp8_dev\CSharp8_Pocket_Ref\Introduction\ForEachEx\bin\Debug\netcoreapp3.1\ForEachEx.pdb
+D:\RnD\csharp8_dev\CSharp8_Pocket_Ref\Introduction\ForEachEx\obj\Debug\netcoreapp3.1\ForEachEx.csprojAssemblyReference.cache
+D:\RnD\csharp8_dev\CSharp8_Pocket_Ref\Introduction\ForEachEx\obj\Debug\netcoreapp3.1\ForEachEx.AssemblyInfoInputs.cache
+D:\RnD\csharp8_dev\CSharp8_Pocket_Ref\Introduction\ForEachEx\obj\Debug\netcoreapp3.1\ForEachEx.AssemblyInfo.cs
+D:\RnD\csharp8_dev\CSharp8_Pocket_Ref\Introduction\ForEachEx\obj\Debug\netcoreapp3.1\ForEachEx.csproj.CoreCompileInputs.cache
+D:\RnD\csharp8_dev\CSharp8_Pocket_Ref\Introduction\ForEachEx\obj\Debug\netcoreapp3.1\ForEachEx.dll
+D:\RnD\csharp8_dev\CSharp8_Pocket_Ref\Introduction\ForEachEx\obj\Debug\netcoreapp3.1\ForEachEx.pdb
+D:\RnD\csharp8_dev\CSharp8_Pocket_Ref\Introduction\ForEachEx\obj\Debug\netcoreapp3.1\ForEachEx.genruntimeconfig.cache

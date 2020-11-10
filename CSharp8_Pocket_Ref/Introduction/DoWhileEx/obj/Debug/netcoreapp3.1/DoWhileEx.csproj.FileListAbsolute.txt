@@ -1,0 +1,13 @@
+D:\RnD\csharp8_dev\CSharp8_Pocket_Ref\Introduction\DoWhileEx\bin\Debug\netcoreapp3.1\DoWhileEx.exe
+D:\RnD\csharp8_dev\CSharp8_Pocket_Ref\Introduction\DoWhileEx\bin\Debug\netcoreapp3.1\DoWhileEx.deps.json
+D:\RnD\csharp8_dev\CSharp8_Pocket_Ref\Introduction\DoWhileEx\bin\Debug\netcoreapp3.1\DoWhileEx.runtimeconfig.json
+D:\RnD\csharp8_dev\CSharp8_Pocket_Ref\Introduction\DoWhileEx\bin\Debug\netcoreapp3.1\DoWhileEx.runtimeconfig.dev.json
+D:\RnD\csharp8_dev\CSharp8_Pocket_Ref\Introduction\DoWhileEx\bin\Debug\netcoreapp3.1\DoWhileEx.dll
+D:\RnD\csharp8_dev\CSharp8_Pocket_Ref\Introduction\DoWhileEx\bin\Debug\netcoreapp3.1\DoWhileEx.pdb
+D:\RnD\csharp8_dev\CSharp8_Pocket_Ref\Introduction\DoWhileEx\obj\Debug\netcoreapp3.1\DoWhileEx.csprojAssemblyReference.cache
+D:\RnD\csharp8_dev\CSharp8_Pocket_Ref\Introduction\DoWhileEx\obj\Debug\netcoreapp3.1\DoWhileEx.AssemblyInfoInputs.cache
+D:\RnD\csharp8_dev\CSharp8_Pocket_Ref\Introduction\DoWhileEx\obj\Debug\netcoreapp3.1\DoWhileEx.AssemblyInfo.cs
+D:\RnD\csharp8_dev\CSharp8_Pocket_Ref\Introduction\DoWhileEx\obj\Debug\netcoreapp3.1\DoWhileEx.csproj.CoreCompileInputs.cache
+D:\RnD\csharp8_dev\CSharp8_Pocket_Ref\Introduction\DoWhileEx\obj\Debug\netcoreapp3.1\DoWhileEx.dll
+D:\RnD\csharp8_dev\CSharp8_Pocket_Ref\Introduction\DoWhileEx\obj\Debug\netcoreapp3.1\DoWhileEx.pdb
+D:\RnD\csharp8_dev\CSharp8_Pocket_Ref\Introduction\DoWhileEx\obj\Debug\netcoreapp3.1\DoWhileEx.genruntimeconfig.cache
