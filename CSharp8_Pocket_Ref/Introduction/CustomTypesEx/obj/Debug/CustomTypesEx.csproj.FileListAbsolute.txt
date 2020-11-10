@@ -1,0 +1,6 @@
+D:\RnD\csharp8_dev\CSharp8_Pocket_Ref\Introduction\CustomTypesEx\bin\Debug\CustomTypesEx.exe
+D:\RnD\csharp8_dev\CSharp8_Pocket_Ref\Introduction\CustomTypesEx\bin\Debug\CustomTypesEx.pdb
+D:\RnD\csharp8_dev\CSharp8_Pocket_Ref\Introduction\CustomTypesEx\obj\Debug\CustomTypesEx.csprojAssemblyReference.cache
+D:\RnD\csharp8_dev\CSharp8_Pocket_Ref\Introduction\CustomTypesEx\obj\Debug\CustomTypesEx.csproj.CoreCompileInputs.cache
+D:\RnD\csharp8_dev\CSharp8_Pocket_Ref\Introduction\CustomTypesEx\obj\Debug\CustomTypesEx.exe
+D:\RnD\csharp8_dev\CSharp8_Pocket_Ref\Introduction\CustomTypesEx\obj\Debug\CustomTypesEx.pdb

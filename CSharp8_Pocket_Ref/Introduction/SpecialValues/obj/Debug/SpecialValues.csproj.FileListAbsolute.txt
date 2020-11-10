@@ -1,0 +1,6 @@
+D:\RnD\csharp8_dev\CSharp8_Pocket_Ref\Introduction\SpecialValues\bin\Debug\SpecialValues.exe
+D:\RnD\csharp8_dev\CSharp8_Pocket_Ref\Introduction\SpecialValues\bin\Debug\SpecialValues.pdb
+D:\RnD\csharp8_dev\CSharp8_Pocket_Ref\Introduction\SpecialValues\obj\Debug\SpecialValues.csprojAssemblyReference.cache
+D:\RnD\csharp8_dev\CSharp8_Pocket_Ref\Introduction\SpecialValues\obj\Debug\SpecialValues.csproj.CoreCompileInputs.cache
+D:\RnD\csharp8_dev\CSharp8_Pocket_Ref\Introduction\SpecialValues\obj\Debug\SpecialValues.exe
+D:\RnD\csharp8_dev\CSharp8_Pocket_Ref\Introduction\SpecialValues\obj\Debug\SpecialValues.pdb

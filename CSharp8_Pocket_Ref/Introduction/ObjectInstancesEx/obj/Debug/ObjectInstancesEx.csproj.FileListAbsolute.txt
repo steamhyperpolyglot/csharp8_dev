@@ -1,0 +1,6 @@
+D:\RnD\csharp8_dev\CSharp8_Pocket_Ref\Introduction\ObjectInstancesEx\bin\Debug\ObjectInstancesEx.exe
+D:\RnD\csharp8_dev\CSharp8_Pocket_Ref\Introduction\ObjectInstancesEx\bin\Debug\ObjectInstancesEx.pdb
+D:\RnD\csharp8_dev\CSharp8_Pocket_Ref\Introduction\ObjectInstancesEx\obj\Debug\ObjectInstancesEx.csprojAssemblyReference.cache
+D:\RnD\csharp8_dev\CSharp8_Pocket_Ref\Introduction\ObjectInstancesEx\obj\Debug\ObjectInstancesEx.csproj.CoreCompileInputs.cache
+D:\RnD\csharp8_dev\CSharp8_Pocket_Ref\Introduction\ObjectInstancesEx\obj\Debug\ObjectInstancesEx.exe
+D:\RnD\csharp8_dev\CSharp8_Pocket_Ref\Introduction\ObjectInstancesEx\obj\Debug\ObjectInstancesEx.pdb

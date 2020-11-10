@@ -1,0 +1,6 @@
+D:\RnD\csharp8_dev\CSharp8_Pocket_Ref\Introduction\OutModifierEx\bin\Debug\OutModifierEx.exe
+D:\RnD\csharp8_dev\CSharp8_Pocket_Ref\Introduction\OutModifierEx\bin\Debug\OutModifierEx.pdb
+D:\RnD\csharp8_dev\CSharp8_Pocket_Ref\Introduction\OutModifierEx\obj\Debug\OutModifierEx.csprojAssemblyReference.cache
+D:\RnD\csharp8_dev\CSharp8_Pocket_Ref\Introduction\OutModifierEx\obj\Debug\OutModifierEx.csproj.CoreCompileInputs.cache
+D:\RnD\csharp8_dev\CSharp8_Pocket_Ref\Introduction\OutModifierEx\obj\Debug\OutModifierEx.exe
+D:\RnD\csharp8_dev\CSharp8_Pocket_Ref\Introduction\OutModifierEx\obj\Debug\OutModifierEx.pdb

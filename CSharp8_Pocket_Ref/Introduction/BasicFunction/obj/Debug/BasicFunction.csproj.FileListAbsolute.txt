@@ -1,0 +1,6 @@
+D:\RnD\csharp8_dev\CSharp8_Pocket_Ref\Introduction\BasicFunction\bin\Debug\BasicFunction.exe
+D:\RnD\csharp8_dev\CSharp8_Pocket_Ref\Introduction\BasicFunction\bin\Debug\BasicFunction.pdb
+D:\RnD\csharp8_dev\CSharp8_Pocket_Ref\Introduction\BasicFunction\obj\Debug\BasicFunction.csprojAssemblyReference.cache
+D:\RnD\csharp8_dev\CSharp8_Pocket_Ref\Introduction\BasicFunction\obj\Debug\BasicFunction.csproj.CoreCompileInputs.cache
+D:\RnD\csharp8_dev\CSharp8_Pocket_Ref\Introduction\BasicFunction\obj\Debug\BasicFunction.exe
+D:\RnD\csharp8_dev\CSharp8_Pocket_Ref\Introduction\BasicFunction\obj\Debug\BasicFunction.pdb

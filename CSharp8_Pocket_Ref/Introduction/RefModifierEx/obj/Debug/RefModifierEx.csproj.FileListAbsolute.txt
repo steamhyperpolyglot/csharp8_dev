@@ -1,0 +1,6 @@
+D:\RnD\csharp8_dev\CSharp8_Pocket_Ref\Introduction\RefModifierEx\bin\Debug\RefModifierEx.exe
+D:\RnD\csharp8_dev\CSharp8_Pocket_Ref\Introduction\RefModifierEx\bin\Debug\RefModifierEx.pdb
+D:\RnD\csharp8_dev\CSharp8_Pocket_Ref\Introduction\RefModifierEx\obj\Debug\RefModifierEx.csprojAssemblyReference.cache
+D:\RnD\csharp8_dev\CSharp8_Pocket_Ref\Introduction\RefModifierEx\obj\Debug\RefModifierEx.csproj.CoreCompileInputs.cache
+D:\RnD\csharp8_dev\CSharp8_Pocket_Ref\Introduction\RefModifierEx\obj\Debug\RefModifierEx.exe
+D:\RnD\csharp8_dev\CSharp8_Pocket_Ref\Introduction\RefModifierEx\obj\Debug\RefModifierEx.pdb

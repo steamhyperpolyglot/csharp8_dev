@@ -1,0 +1,6 @@
+D:\RnD\csharp8_dev\CSharp8_Pocket_Ref\Introduction\WorkingWithStrings\bin\Debug\WorkingWithStrings.exe
+D:\RnD\csharp8_dev\CSharp8_Pocket_Ref\Introduction\WorkingWithStrings\bin\Debug\WorkingWithStrings.pdb
+D:\RnD\csharp8_dev\CSharp8_Pocket_Ref\Introduction\WorkingWithStrings\obj\Debug\WorkingWithStrings.csprojAssemblyReference.cache
+D:\RnD\csharp8_dev\CSharp8_Pocket_Ref\Introduction\WorkingWithStrings\obj\Debug\WorkingWithStrings.csproj.CoreCompileInputs.cache
+D:\RnD\csharp8_dev\CSharp8_Pocket_Ref\Introduction\WorkingWithStrings\obj\Debug\WorkingWithStrings.exe
+D:\RnD\csharp8_dev\CSharp8_Pocket_Ref\Introduction\WorkingWithStrings\obj\Debug\WorkingWithStrings.pdb

@@ -1,0 +1,6 @@
+D:\RnD\csharp8_dev\CSharp8_Pocket_Ref\Introduction\FirstExample\bin\Debug\FirstExample.exe
+D:\RnD\csharp8_dev\CSharp8_Pocket_Ref\Introduction\FirstExample\bin\Debug\FirstExample.pdb
+D:\RnD\csharp8_dev\CSharp8_Pocket_Ref\Introduction\FirstExample\obj\Debug\FirstExample.csprojAssemblyReference.cache
+D:\RnD\csharp8_dev\CSharp8_Pocket_Ref\Introduction\FirstExample\obj\Debug\FirstExample.csproj.CoreCompileInputs.cache
+D:\RnD\csharp8_dev\CSharp8_Pocket_Ref\Introduction\FirstExample\obj\Debug\FirstExample.exe
+D:\RnD\csharp8_dev\CSharp8_Pocket_Ref\Introduction\FirstExample\obj\Debug\FirstExample.pdb

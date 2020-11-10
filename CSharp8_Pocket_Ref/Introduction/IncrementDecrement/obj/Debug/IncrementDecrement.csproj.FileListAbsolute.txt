@@ -1,0 +1,6 @@
+D:\RnD\csharp8_dev\CSharp8_Pocket_Ref\Introduction\IncrementDecrement\bin\Debug\IncrementDecrement.exe
+D:\RnD\csharp8_dev\CSharp8_Pocket_Ref\Introduction\IncrementDecrement\bin\Debug\IncrementDecrement.pdb
+D:\RnD\csharp8_dev\CSharp8_Pocket_Ref\Introduction\IncrementDecrement\obj\Debug\IncrementDecrement.csprojAssemblyReference.cache
+D:\RnD\csharp8_dev\CSharp8_Pocket_Ref\Introduction\IncrementDecrement\obj\Debug\IncrementDecrement.csproj.CoreCompileInputs.cache
+D:\RnD\csharp8_dev\CSharp8_Pocket_Ref\Introduction\IncrementDecrement\obj\Debug\IncrementDecrement.exe
+D:\RnD\csharp8_dev\CSharp8_Pocket_Ref\Introduction\IncrementDecrement\obj\Debug\IncrementDecrement.pdb

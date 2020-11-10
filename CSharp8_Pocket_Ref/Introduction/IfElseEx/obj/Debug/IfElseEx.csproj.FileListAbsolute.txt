@@ -1,0 +1,6 @@
+D:\RnD\csharp8_dev\CSharp8_Pocket_Ref\Introduction\IfElseEx\bin\Debug\IfElseEx.exe
+D:\RnD\csharp8_dev\CSharp8_Pocket_Ref\Introduction\IfElseEx\bin\Debug\IfElseEx.pdb
+D:\RnD\csharp8_dev\CSharp8_Pocket_Ref\Introduction\IfElseEx\obj\Debug\IfElseEx.csprojAssemblyReference.cache
+D:\RnD\csharp8_dev\CSharp8_Pocket_Ref\Introduction\IfElseEx\obj\Debug\IfElseEx.csproj.CoreCompileInputs.cache
+D:\RnD\csharp8_dev\CSharp8_Pocket_Ref\Introduction\IfElseEx\obj\Debug\IfElseEx.exe
+D:\RnD\csharp8_dev\CSharp8_Pocket_Ref\Introduction\IfElseEx\obj\Debug\IfElseEx.pdb

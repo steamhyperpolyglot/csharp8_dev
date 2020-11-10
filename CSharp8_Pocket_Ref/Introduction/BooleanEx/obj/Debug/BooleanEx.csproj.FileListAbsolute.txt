@@ -1,0 +1,6 @@
+D:\RnD\csharp8_dev\CSharp8_Pocket_Ref\Introduction\BooleanEx\bin\Debug\BooleanEx.exe
+D:\RnD\csharp8_dev\CSharp8_Pocket_Ref\Introduction\BooleanEx\bin\Debug\BooleanEx.pdb
+D:\RnD\csharp8_dev\CSharp8_Pocket_Ref\Introduction\BooleanEx\obj\Debug\BooleanEx.csprojAssemblyReference.cache
+D:\RnD\csharp8_dev\CSharp8_Pocket_Ref\Introduction\BooleanEx\obj\Debug\BooleanEx.csproj.CoreCompileInputs.cache
+D:\RnD\csharp8_dev\CSharp8_Pocket_Ref\Introduction\BooleanEx\obj\Debug\BooleanEx.exe
+D:\RnD\csharp8_dev\CSharp8_Pocket_Ref\Introduction\BooleanEx\obj\Debug\BooleanEx.pdb

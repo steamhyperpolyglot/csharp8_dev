@@ -1,0 +1,6 @@
+D:\RnD\csharp8_dev\CSharp8_Pocket_Ref\Introduction\StringInterpolation\bin\Debug\StringInterpolation.exe
+D:\RnD\csharp8_dev\CSharp8_Pocket_Ref\Introduction\StringInterpolation\bin\Debug\StringInterpolation.pdb
+D:\RnD\csharp8_dev\CSharp8_Pocket_Ref\Introduction\StringInterpolation\obj\Debug\StringInterpolation.csprojAssemblyReference.cache
+D:\RnD\csharp8_dev\CSharp8_Pocket_Ref\Introduction\StringInterpolation\obj\Debug\StringInterpolation.csproj.CoreCompileInputs.cache
+D:\RnD\csharp8_dev\CSharp8_Pocket_Ref\Introduction\StringInterpolation\obj\Debug\StringInterpolation.exe
+D:\RnD\csharp8_dev\CSharp8_Pocket_Ref\Introduction\StringInterpolation\obj\Debug\StringInterpolation.pdb

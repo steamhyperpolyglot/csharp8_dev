@@ -1,0 +1,6 @@
+D:\RnD\csharp8_dev\CSharp8_Pocket_Ref\Introduction\ParamsModifierEx\bin\Debug\ParamsModifierEx.exe
+D:\RnD\csharp8_dev\CSharp8_Pocket_Ref\Introduction\ParamsModifierEx\bin\Debug\ParamsModifierEx.pdb
+D:\RnD\csharp8_dev\CSharp8_Pocket_Ref\Introduction\ParamsModifierEx\obj\Debug\ParamsModifierEx.csprojAssemblyReference.cache
+D:\RnD\csharp8_dev\CSharp8_Pocket_Ref\Introduction\ParamsModifierEx\obj\Debug\ParamsModifierEx.csproj.CoreCompileInputs.cache
+D:\RnD\csharp8_dev\CSharp8_Pocket_Ref\Introduction\ParamsModifierEx\obj\Debug\ParamsModifierEx.exe
+D:\RnD\csharp8_dev\CSharp8_Pocket_Ref\Introduction\ParamsModifierEx\obj\Debug\ParamsModifierEx.pdb

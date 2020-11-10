@@ -1,0 +1,6 @@
+D:\RnD\csharp8_dev\CSharp8_Pocket_Ref\Introduction\ArgsByRef\bin\Debug\ArgsByRef.exe
+D:\RnD\csharp8_dev\CSharp8_Pocket_Ref\Introduction\ArgsByRef\bin\Debug\ArgsByRef.pdb
+D:\RnD\csharp8_dev\CSharp8_Pocket_Ref\Introduction\ArgsByRef\obj\Debug\ArgsByRef.csprojAssemblyReference.cache
+D:\RnD\csharp8_dev\CSharp8_Pocket_Ref\Introduction\ArgsByRef\obj\Debug\ArgsByRef.csproj.CoreCompileInputs.cache
+D:\RnD\csharp8_dev\CSharp8_Pocket_Ref\Introduction\ArgsByRef\obj\Debug\ArgsByRef.exe
+D:\RnD\csharp8_dev\CSharp8_Pocket_Ref\Introduction\ArgsByRef\obj\Debug\ArgsByRef.pdb
