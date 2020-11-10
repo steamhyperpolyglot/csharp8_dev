@@ -1,0 +1,6 @@
+D:\RnD\csharp8_dev\CSharp8_Pocket_Ref\Introduction\StructureEx\obj\Debug\StructureEx.csprojAssemblyReference.cache
+D:\RnD\csharp8_dev\CSharp8_Pocket_Ref\Introduction\StructureEx\obj\Debug\StructureEx.csproj.CoreCompileInputs.cache
+D:\RnD\csharp8_dev\CSharp8_Pocket_Ref\Introduction\StructureEx\bin\Debug\StructureEx.exe
+D:\RnD\csharp8_dev\CSharp8_Pocket_Ref\Introduction\StructureEx\bin\Debug\StructureEx.pdb
+D:\RnD\csharp8_dev\CSharp8_Pocket_Ref\Introduction\StructureEx\obj\Debug\StructureEx.exe
+D:\RnD\csharp8_dev\CSharp8_Pocket_Ref\Introduction\StructureEx\obj\Debug\StructureEx.pdb

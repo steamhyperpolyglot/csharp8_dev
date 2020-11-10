@@ -1,13 +1,12 @@
 ﻿using System;
 
-namespace OutModifierEx
+namespace FirstExample
 {
 	internal class Program
-	{
+	{ 
 		public static void Main ( string [] args )
 		{
-			int x;
-			int.TryParse ( "123", out x );
+			int x = 12 * 30;
 			Console.WriteLine ( x );
 		}
 	}

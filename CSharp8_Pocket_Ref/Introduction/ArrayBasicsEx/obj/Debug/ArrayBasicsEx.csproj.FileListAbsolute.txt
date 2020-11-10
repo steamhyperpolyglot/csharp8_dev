@@ -1,0 +1,6 @@
+D:\RnD\csharp8_dev\CSharp8_Pocket_Ref\Introduction\ArrayBasicsEx\bin\Debug\ArrayBasicsEx.exe
+D:\RnD\csharp8_dev\CSharp8_Pocket_Ref\Introduction\ArrayBasicsEx\bin\Debug\ArrayBasicsEx.pdb
+D:\RnD\csharp8_dev\CSharp8_Pocket_Ref\Introduction\ArrayBasicsEx\obj\Debug\ArrayBasicsEx.csprojAssemblyReference.cache
+D:\RnD\csharp8_dev\CSharp8_Pocket_Ref\Introduction\ArrayBasicsEx\obj\Debug\ArrayBasicsEx.csproj.CoreCompileInputs.cache
+D:\RnD\csharp8_dev\CSharp8_Pocket_Ref\Introduction\ArrayBasicsEx\obj\Debug\ArrayBasicsEx.exe
+D:\RnD\csharp8_dev\CSharp8_Pocket_Ref\Introduction\ArrayBasicsEx\obj\Debug\ArrayBasicsEx.pdb
