@@ -6,7 +6,14 @@ namespace GotoEx
 	{
 		static void Main ( string [] args )
 		{
-			Console.WriteLine ( "Hello World!" );
+			int i = 1;
+			startLoop:
+			if ( i <= 5 )
+			{
+				Console.Write (i + " ");
+				i++;
+				goto startLoop;
+			}
 		}
 	}
 }

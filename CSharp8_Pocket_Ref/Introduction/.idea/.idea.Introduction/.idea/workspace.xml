@@ -31,6 +31,8 @@
     <projectFile>ForEachEx/ForEachEx.csproj</projectFile>
     <projectFile>BreakEx/BreakEx.csproj</projectFile>
     <projectFile>ContinueEx/ContinueEx.csproj</projectFile>
+    <projectFile>GotoEx/GotoEx.csproj</projectFile>
+    <projectFile>UsingStaticEx/UsingStaticEx.csproj</projectFile>
   </component>
   <component name="BranchesTreeState">
     <expand>
@@ -52,198 +54,98 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="daa36d06-930b-4ece-b13c-066064b5757a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.vs/Introduction/v16/.suo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BreakEx/BreakEx.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BreakEx/Program.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BreakEx/bin/Debug/netcoreapp3.1/BreakEx.deps.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BreakEx/bin/Debug/netcoreapp3.1/BreakEx.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BreakEx/bin/Debug/netcoreapp3.1/BreakEx.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BreakEx/bin/Debug/netcoreapp3.1/BreakEx.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BreakEx/bin/Debug/netcoreapp3.1/BreakEx.runtimeconfig.dev.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BreakEx/bin/Debug/netcoreapp3.1/BreakEx.runtimeconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BreakEx/obj/BreakEx.csproj.nuget.dgspec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BreakEx/obj/BreakEx.csproj.nuget.g.props" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BreakEx/obj/BreakEx.csproj.nuget.g.targets" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BreakEx/obj/Debug/netcoreapp3.1/.NETCoreApp,Version=v3.1.AssemblyAttributes.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BreakEx/obj/Debug/netcoreapp3.1/BreakEx.AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BreakEx/obj/Debug/netcoreapp3.1/BreakEx.AssemblyInfoInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BreakEx/obj/Debug/netcoreapp3.1/BreakEx.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BreakEx/obj/Debug/netcoreapp3.1/BreakEx.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BreakEx/obj/Debug/netcoreapp3.1/BreakEx.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BreakEx/obj/Debug/netcoreapp3.1/BreakEx.csprojAssemblyReference.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BreakEx/obj/Debug/netcoreapp3.1/BreakEx.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BreakEx/obj/Debug/netcoreapp3.1/BreakEx.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BreakEx/obj/Debug/netcoreapp3.1/BreakEx.genruntimeconfig.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BreakEx/obj/Debug/netcoreapp3.1/BreakEx.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BreakEx/obj/project.assets.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BreakEx/obj/project.nuget.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BreakEx/obj/project.packagespec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BreakEx/obj/rider.project.restore.info" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ContinueEx/ContinueEx.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ContinueEx/Program.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ContinueEx/bin/Debug/netcoreapp3.1/ContinueEx.deps.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ContinueEx/bin/Debug/netcoreapp3.1/ContinueEx.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ContinueEx/bin/Debug/netcoreapp3.1/ContinueEx.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ContinueEx/bin/Debug/netcoreapp3.1/ContinueEx.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ContinueEx/bin/Debug/netcoreapp3.1/ContinueEx.runtimeconfig.dev.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ContinueEx/bin/Debug/netcoreapp3.1/ContinueEx.runtimeconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ContinueEx/obj/ContinueEx.csproj.nuget.dgspec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ContinueEx/obj/ContinueEx.csproj.nuget.g.props" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ContinueEx/obj/ContinueEx.csproj.nuget.g.targets" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ContinueEx/obj/Debug/netcoreapp3.1/.NETCoreApp,Version=v3.1.AssemblyAttributes.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ContinueEx/obj/Debug/netcoreapp3.1/ContinueEx.AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ContinueEx/obj/Debug/netcoreapp3.1/ContinueEx.AssemblyInfoInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ContinueEx/obj/Debug/netcoreapp3.1/ContinueEx.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ContinueEx/obj/Debug/netcoreapp3.1/ContinueEx.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ContinueEx/obj/Debug/netcoreapp3.1/ContinueEx.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ContinueEx/obj/Debug/netcoreapp3.1/ContinueEx.csprojAssemblyReference.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ContinueEx/obj/Debug/netcoreapp3.1/ContinueEx.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ContinueEx/obj/Debug/netcoreapp3.1/ContinueEx.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ContinueEx/obj/Debug/netcoreapp3.1/ContinueEx.genruntimeconfig.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ContinueEx/obj/Debug/netcoreapp3.1/ContinueEx.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ContinueEx/obj/project.assets.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ContinueEx/obj/project.nuget.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ContinueEx/obj/project.packagespec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ContinueEx/obj/rider.project.restore.info" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DoWhileEx/.vscode/launch.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DoWhileEx/.vscode/tasks.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DoWhileEx/DoWhileEx.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DoWhileEx/Program.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DoWhileEx/bin/Debug/netcoreapp3.1/DoWhileEx.deps.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DoWhileEx/bin/Debug/netcoreapp3.1/DoWhileEx.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DoWhileEx/bin/Debug/netcoreapp3.1/DoWhileEx.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DoWhileEx/bin/Debug/netcoreapp3.1/DoWhileEx.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DoWhileEx/bin/Debug/netcoreapp3.1/DoWhileEx.runtimeconfig.dev.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DoWhileEx/bin/Debug/netcoreapp3.1/DoWhileEx.runtimeconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DoWhileEx/obj/Debug/netcoreapp3.1/.NETCoreApp,Version=v3.1.AssemblyAttributes.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DoWhileEx/obj/Debug/netcoreapp3.1/DoWhileEx.AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DoWhileEx/obj/Debug/netcoreapp3.1/DoWhileEx.AssemblyInfoInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DoWhileEx/obj/Debug/netcoreapp3.1/DoWhileEx.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DoWhileEx/obj/Debug/netcoreapp3.1/DoWhileEx.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DoWhileEx/obj/Debug/netcoreapp3.1/DoWhileEx.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DoWhileEx/obj/Debug/netcoreapp3.1/DoWhileEx.csprojAssemblyReference.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DoWhileEx/obj/Debug/netcoreapp3.1/DoWhileEx.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DoWhileEx/obj/Debug/netcoreapp3.1/DoWhileEx.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DoWhileEx/obj/Debug/netcoreapp3.1/DoWhileEx.genruntimeconfig.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DoWhileEx/obj/Debug/netcoreapp3.1/DoWhileEx.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DoWhileEx/obj/DoWhileEx.csproj.nuget.dgspec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DoWhileEx/obj/DoWhileEx.csproj.nuget.g.props" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DoWhileEx/obj/DoWhileEx.csproj.nuget.g.targets" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DoWhileEx/obj/project.assets.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DoWhileEx/obj/project.nuget.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DoWhileEx/obj/project.packagespec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ForEachEx/ForEachEx.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ForEachEx/Program.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ForEachEx/bin/Debug/netcoreapp3.1/ForEachEx.deps.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ForEachEx/bin/Debug/netcoreapp3.1/ForEachEx.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ForEachEx/bin/Debug/netcoreapp3.1/ForEachEx.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ForEachEx/bin/Debug/netcoreapp3.1/ForEachEx.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ForEachEx/bin/Debug/netcoreapp3.1/ForEachEx.runtimeconfig.dev.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ForEachEx/bin/Debug/netcoreapp3.1/ForEachEx.runtimeconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ForEachEx/obj/Debug/netcoreapp3.1/.NETCoreApp,Version=v3.1.AssemblyAttributes.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ForEachEx/obj/Debug/netcoreapp3.1/ForEachEx.AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ForEachEx/obj/Debug/netcoreapp3.1/ForEachEx.AssemblyInfoInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ForEachEx/obj/Debug/netcoreapp3.1/ForEachEx.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ForEachEx/obj/Debug/netcoreapp3.1/ForEachEx.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ForEachEx/obj/Debug/netcoreapp3.1/ForEachEx.csprojAssemblyReference.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ForEachEx/obj/Debug/netcoreapp3.1/ForEachEx.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ForEachEx/obj/Debug/netcoreapp3.1/ForEachEx.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ForEachEx/obj/Debug/netcoreapp3.1/ForEachEx.genruntimeconfig.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ForEachEx/obj/Debug/netcoreapp3.1/ForEachEx.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ForEachEx/obj/ForEachEx.csproj.nuget.dgspec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ForEachEx/obj/project.packagespec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ForLoopEx/.vscode/launch.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ForLoopEx/.vscode/tasks.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ForLoopEx/ForLoopEx.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ForLoopEx/Program.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ForLoopEx/bin/Debug/netcoreapp3.1/ForLoopEx.deps.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ForLoopEx/bin/Debug/netcoreapp3.1/ForLoopEx.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ForLoopEx/bin/Debug/netcoreapp3.1/ForLoopEx.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ForLoopEx/bin/Debug/netcoreapp3.1/ForLoopEx.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ForLoopEx/bin/Debug/netcoreapp3.1/ForLoopEx.runtimeconfig.dev.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ForLoopEx/bin/Debug/netcoreapp3.1/ForLoopEx.runtimeconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ForLoopEx/obj/Debug/netcoreapp3.1/.NETCoreApp,Version=v3.1.AssemblyAttributes.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ForLoopEx/obj/Debug/netcoreapp3.1/ForLoopEx.AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ForLoopEx/obj/Debug/netcoreapp3.1/ForLoopEx.AssemblyInfoInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ForLoopEx/obj/Debug/netcoreapp3.1/ForLoopEx.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ForLoopEx/obj/Debug/netcoreapp3.1/ForLoopEx.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ForLoopEx/obj/Debug/netcoreapp3.1/ForLoopEx.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ForLoopEx/obj/Debug/netcoreapp3.1/ForLoopEx.csprojAssemblyReference.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ForLoopEx/obj/Debug/netcoreapp3.1/ForLoopEx.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ForLoopEx/obj/Debug/netcoreapp3.1/ForLoopEx.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ForLoopEx/obj/Debug/netcoreapp3.1/ForLoopEx.genruntimeconfig.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ForLoopEx/obj/Debug/netcoreapp3.1/ForLoopEx.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ForLoopEx/obj/ForLoopEx.csproj.nuget.dgspec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ForLoopEx/obj/ForLoopEx.csproj.nuget.g.props" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ForLoopEx/obj/ForLoopEx.csproj.nuget.g.targets" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ForLoopEx/obj/project.assets.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ForLoopEx/obj/project.nuget.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ForMultiConditionsEx/.vscode/launch.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ForMultiConditionsEx/.vscode/tasks.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ForMultiConditionsEx/ForMultiConditionsEx.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ForMultiConditionsEx/Program.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ForMultiConditionsEx/bin/Debug/netcoreapp3.1/ForMultiConditionsEx.deps.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ForMultiConditionsEx/bin/Debug/netcoreapp3.1/ForMultiConditionsEx.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ForMultiConditionsEx/bin/Debug/netcoreapp3.1/ForMultiConditionsEx.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ForMultiConditionsEx/bin/Debug/netcoreapp3.1/ForMultiConditionsEx.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ForMultiConditionsEx/bin/Debug/netcoreapp3.1/ForMultiConditionsEx.runtimeconfig.dev.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ForMultiConditionsEx/bin/Debug/netcoreapp3.1/ForMultiConditionsEx.runtimeconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ForMultiConditionsEx/obj/Debug/netcoreapp3.1/.NETCoreApp,Version=v3.1.AssemblyAttributes.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ForMultiConditionsEx/obj/Debug/netcoreapp3.1/ForMultiConditionsEx.AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ForMultiConditionsEx/obj/Debug/netcoreapp3.1/ForMultiConditionsEx.AssemblyInfoInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ForMultiConditionsEx/obj/Debug/netcoreapp3.1/ForMultiConditionsEx.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ForMultiConditionsEx/obj/Debug/netcoreapp3.1/ForMultiConditionsEx.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ForMultiConditionsEx/obj/Debug/netcoreapp3.1/ForMultiConditionsEx.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ForMultiConditionsEx/obj/Debug/netcoreapp3.1/ForMultiConditionsEx.csprojAssemblyReference.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ForMultiConditionsEx/obj/Debug/netcoreapp3.1/ForMultiConditionsEx.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ForMultiConditionsEx/obj/Debug/netcoreapp3.1/ForMultiConditionsEx.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ForMultiConditionsEx/obj/Debug/netcoreapp3.1/ForMultiConditionsEx.genruntimeconfig.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ForMultiConditionsEx/obj/Debug/netcoreapp3.1/ForMultiConditionsEx.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ForMultiConditionsEx/obj/ForMultiConditionsEx.csproj.nuget.dgspec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ForMultiConditionsEx/obj/ForMultiConditionsEx.csproj.nuget.g.props" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ForMultiConditionsEx/obj/ForMultiConditionsEx.csproj.nuget.g.targets" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ForMultiConditionsEx/obj/project.assets.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ForMultiConditionsEx/obj/project.nuget.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ForMultiConditionsEx/obj/project.packagespec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WhileLoopEx/.vscode/launch.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WhileLoopEx/.vscode/tasks.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WhileLoopEx/Program.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WhileLoopEx/WhileLoopEx.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WhileLoopEx/bin/Debug/netcoreapp3.1/WhileLoopEx.deps.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WhileLoopEx/bin/Debug/netcoreapp3.1/WhileLoopEx.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WhileLoopEx/bin/Debug/netcoreapp3.1/WhileLoopEx.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WhileLoopEx/bin/Debug/netcoreapp3.1/WhileLoopEx.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WhileLoopEx/bin/Debug/netcoreapp3.1/WhileLoopEx.runtimeconfig.dev.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WhileLoopEx/bin/Debug/netcoreapp3.1/WhileLoopEx.runtimeconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WhileLoopEx/obj/Debug/netcoreapp3.1/.NETCoreApp,Version=v3.1.AssemblyAttributes.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WhileLoopEx/obj/Debug/netcoreapp3.1/WhileLoopEx.AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WhileLoopEx/obj/Debug/netcoreapp3.1/WhileLoopEx.AssemblyInfoInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WhileLoopEx/obj/Debug/netcoreapp3.1/WhileLoopEx.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WhileLoopEx/obj/Debug/netcoreapp3.1/WhileLoopEx.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WhileLoopEx/obj/Debug/netcoreapp3.1/WhileLoopEx.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WhileLoopEx/obj/Debug/netcoreapp3.1/WhileLoopEx.csprojAssemblyReference.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WhileLoopEx/obj/Debug/netcoreapp3.1/WhileLoopEx.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WhileLoopEx/obj/Debug/netcoreapp3.1/WhileLoopEx.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WhileLoopEx/obj/Debug/netcoreapp3.1/WhileLoopEx.genruntimeconfig.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WhileLoopEx/obj/Debug/netcoreapp3.1/WhileLoopEx.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WhileLoopEx/obj/WhileLoopEx.csproj.nuget.dgspec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WhileLoopEx/obj/WhileLoopEx.csproj.nuget.g.props" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WhileLoopEx/obj/WhileLoopEx.csproj.nuget.g.targets" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WhileLoopEx/obj/project.assets.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WhileLoopEx/obj/project.nuget.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.vs/Introduction/DesignTimeBuild/.dtbcache.v2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BreakEx/obj/Debug/netcoreapp3.1/apphost.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ContinueEx/obj/Debug/netcoreapp3.1/apphost.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DoWhileEx/obj/Debug/netcoreapp3.1/apphost.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DoWhileEx/obj/rider.project.restore.info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ForEachEx/obj/Debug/netcoreapp3.1/apphost.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ForLoopEx/obj/Debug/netcoreapp3.1/apphost.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ForLoopEx/obj/rider.project.restore.info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ForMultiConditionsEx/obj/Debug/netcoreapp3.1/apphost.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ForMultiConditionsEx/obj/rider.project.restore.info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GotoEx/GotoEx.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GotoEx/Program.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GotoEx/bin/Debug/net48/GotoEx.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GotoEx/bin/Debug/net48/GotoEx.exe.config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GotoEx/bin/Debug/net48/GotoEx.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GotoEx/obj/Debug/net48/GotoEx.assets.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GotoEx/obj/Debug/net48/GotoEx.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GotoEx/obj/Debug/net48/GotoEx.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GotoEx/obj/Debug/net48/GotoEx.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GotoEx/obj/Debug/net48/GotoEx.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GotoEx/obj/GotoEx.csproj.nuget.dgspec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GotoEx/obj/GotoEx.csproj.nuget.g.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GotoEx/obj/GotoEx.csproj.nuget.g.targets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GotoEx/obj/project.assets.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GotoEx/obj/project.nuget.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GotoEx/obj/rider.project.restore.info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UsingStaticEx/Program.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UsingStaticEx/UsingStaticEx.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UsingStaticEx/obj/Debug/net48/UsingStaticEx.assets.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UsingStaticEx/obj/UsingStaticEx.csproj.nuget.dgspec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UsingStaticEx/obj/UsingStaticEx.csproj.nuget.g.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UsingStaticEx/obj/UsingStaticEx.csproj.nuget.g.targets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UsingStaticEx/obj/project.assets.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UsingStaticEx/obj/project.nuget.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UsingStaticEx/obj/rider.project.restore.info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WhileLoopEx/obj/Debug/netcoreapp3.1/apphost.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WhileLoopEx/obj/rider.project.restore.info" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Introduction/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Introduction/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Introduction/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Introduction/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ArgsByRef/obj/Debug/ArgsByRef.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ArgsByRef/obj/Debug/ArgsByRef.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ArgsByVal/obj/Debug/ArgsByVal.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ArgsByVal/obj/Debug/ArgsByVal.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BasicFunction/obj/Debug/BasicFunction.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/BasicFunction/obj/Debug/BasicFunction.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BooleanEx/obj/Debug/BooleanEx.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/BooleanEx/obj/Debug/BooleanEx.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/Introduction/v16/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/Introduction/v16/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BreakEx/obj/BreakEx.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/BreakEx/obj/BreakEx.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BreakEx/obj/BreakEx.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/BreakEx/obj/BreakEx.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BreakEx/obj/Debug/netcoreapp3.1/BreakEx.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/BreakEx/obj/Debug/netcoreapp3.1/BreakEx.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BreakEx/obj/Debug/netcoreapp3.1/BreakEx.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/BreakEx/obj/Debug/netcoreapp3.1/BreakEx.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BreakEx/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/BreakEx/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BreakEx/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/BreakEx/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BreakEx/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/BreakEx/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BreakEx/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/BreakEx/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ContinueEx/obj/ContinueEx.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/ContinueEx/obj/ContinueEx.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ContinueEx/obj/ContinueEx.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/ContinueEx/obj/ContinueEx.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ContinueEx/obj/Debug/netcoreapp3.1/ContinueEx.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ContinueEx/obj/Debug/netcoreapp3.1/ContinueEx.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ContinueEx/obj/Debug/netcoreapp3.1/ContinueEx.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ContinueEx/obj/Debug/netcoreapp3.1/ContinueEx.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ContinueEx/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/ContinueEx/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ContinueEx/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ContinueEx/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ContinueEx/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/ContinueEx/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ContinueEx/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/ContinueEx/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DoWhileEx/obj/Debug/netcoreapp3.1/DoWhileEx.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/DoWhileEx/obj/Debug/netcoreapp3.1/DoWhileEx.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DoWhileEx/obj/DoWhileEx.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/DoWhileEx/obj/DoWhileEx.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DoWhileEx/obj/DoWhileEx.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/DoWhileEx/obj/DoWhileEx.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DoWhileEx/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/DoWhileEx/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DoWhileEx/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/DoWhileEx/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DoWhileEx/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/DoWhileEx/obj/project.packagespec.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/FirstExample/obj/Debug/FirstExample.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/FirstExample/obj/Debug/FirstExample.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IfElseEx/obj/Debug/IfElseEx.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/IfElseEx/obj/Debug/IfElseEx.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ForEachEx/obj/Debug/netcoreapp3.1/ForEachEx.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ForEachEx/obj/Debug/netcoreapp3.1/ForEachEx.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ForEachEx/obj/Debug/netcoreapp3.1/ForEachEx.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ForEachEx/obj/Debug/netcoreapp3.1/ForEachEx.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ForEachEx/obj/ForEachEx.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/ForEachEx/obj/ForEachEx.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ForEachEx/obj/ForEachEx.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/ForEachEx/obj/ForEachEx.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ForEachEx/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/ForEachEx/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ForEachEx/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ForEachEx/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ForEachEx/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/ForEachEx/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ForEachEx/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/ForEachEx/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ForLoopEx/obj/Debug/netcoreapp3.1/ForLoopEx.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ForLoopEx/obj/Debug/netcoreapp3.1/ForLoopEx.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ForLoopEx/obj/ForLoopEx.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/ForLoopEx/obj/ForLoopEx.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ForLoopEx/obj/ForLoopEx.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/ForLoopEx/obj/ForLoopEx.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ForLoopEx/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/ForLoopEx/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ForLoopEx/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ForLoopEx/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ForLoopEx/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/ForLoopEx/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ForMultiConditionsEx/obj/Debug/netcoreapp3.1/ForMultiConditionsEx.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ForMultiConditionsEx/obj/Debug/netcoreapp3.1/ForMultiConditionsEx.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ForMultiConditionsEx/obj/Debug/netcoreapp3.1/ForMultiConditionsEx.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ForMultiConditionsEx/obj/Debug/netcoreapp3.1/ForMultiConditionsEx.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ForMultiConditionsEx/obj/ForMultiConditionsEx.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/ForMultiConditionsEx/obj/ForMultiConditionsEx.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ForMultiConditionsEx/obj/ForMultiConditionsEx.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/ForMultiConditionsEx/obj/ForMultiConditionsEx.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ForMultiConditionsEx/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/ForMultiConditionsEx/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ForMultiConditionsEx/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ForMultiConditionsEx/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ForMultiConditionsEx/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/ForMultiConditionsEx/obj/project.packagespec.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Introduction.sln" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction.sln" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OutModifierEx/obj/Debug/OutModifierEx.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/OutModifierEx/obj/Debug/OutModifierEx.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParamsModifierEx/obj/Debug/ParamsModifierEx.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ParamsModifierEx/obj/Debug/ParamsModifierEx.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RefModifierEx/obj/Debug/RefModifierEx.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/RefModifierEx/obj/Debug/RefModifierEx.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/StructureEx/obj/Debug/StructureEx.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/StructureEx/obj/Debug/StructureEx.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WhileLoopEx/obj/Debug/netcoreapp3.1/WhileLoopEx.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/WhileLoopEx/obj/Debug/netcoreapp3.1/WhileLoopEx.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WhileLoopEx/obj/Debug/netcoreapp3.1/WhileLoopEx.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/WhileLoopEx/obj/Debug/netcoreapp3.1/WhileLoopEx.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WhileLoopEx/obj/WhileLoopEx.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/WhileLoopEx/obj/WhileLoopEx.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WhileLoopEx/obj/WhileLoopEx.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/WhileLoopEx/obj/WhileLoopEx.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WhileLoopEx/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/WhileLoopEx/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WhileLoopEx/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/WhileLoopEx/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WhileLoopEx/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/WhileLoopEx/obj/project.packagespec.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -284,6 +186,8 @@
         <option value="$PROJECT_DIR$/BreakEx/Class1.vb" />
         <option value="$PROJECT_DIR$/BreakEx/Program.cs" />
         <option value="$PROJECT_DIR$/ContinueEx/Program.cs" />
+        <option value="$PROJECT_DIR$/GotoEx/Program.cs" />
+        <option value="$PROJECT_DIR$/UsingStaticEx/Program.cs" />
       </list>
     </option>
   </component>
@@ -310,7 +214,7 @@
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager" selected=".NET Project.ContinueEx">
+  <component name="RunManager" selected=".NET Project.GotoEx">
     <configuration name="ArgsByRef" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
@@ -554,6 +458,24 @@
       <option name="USE_MONO" value="0" />
       <option name="RUNTIME_ARGUMENTS" value="" />
       <option name="PROJECT_PATH" value="$PROJECT_DIR$/ForMultiConditionsEx/ForMultiConditionsEx.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
+    <configuration name="GotoEx" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/GotoEx/GotoEx.csproj" />
       <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
       <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
       <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
@@ -815,6 +737,24 @@
         <option name="Build" />
       </method>
     </configuration>
+    <configuration name="UsingStaticEx" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/UsingStaticEx/UsingStaticEx.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
     <configuration name="WhileLoopEx" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
@@ -863,6 +803,8 @@
       <workItem from="1604488979487" duration="5578000" />
       <workItem from="1604495199272" duration="3949000" />
       <workItem from="1605015483969" duration="540000" />
+      <workItem from="1605347285951" duration="23000" />
+      <workItem from="1605347330936" duration="496000" />
     </task>
     <servers />
   </component>
@@ -892,31 +834,31 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="669" y="467" width="731" height="334" key="#C#/0.0.1920.1080@0.0.1920.1080" timestamp="1604489123995" />
-    <state width="2503" height="376" key="GridCell.Tab.0.bottom" timestamp="1605016029859">
+    <state width="1583" height="296" key="GridCell.Tab.0.bottom" timestamp="1605347832343">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
     <state width="1865" height="268" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1604510351652" />
-    <state width="2503" height="376" key="GridCell.Tab.0.bottom/0.0.2560.1440@0.0.2560.1440" timestamp="1605016029859" />
-    <state width="2503" height="376" key="GridCell.Tab.0.center" timestamp="1605016029859">
+    <state width="1583" height="296" key="GridCell.Tab.0.bottom/0.0.2560.1440@0.0.2560.1440" timestamp="1605347832343" />
+    <state width="1583" height="296" key="GridCell.Tab.0.center" timestamp="1605347832343">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
     <state width="1865" height="268" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1604510351652" />
-    <state width="2503" height="376" key="GridCell.Tab.0.center/0.0.2560.1440@0.0.2560.1440" timestamp="1605016029859" />
-    <state width="2503" height="376" key="GridCell.Tab.0.left" timestamp="1605016029858">
+    <state width="1583" height="296" key="GridCell.Tab.0.center/0.0.2560.1440@0.0.2560.1440" timestamp="1605347832343" />
+    <state width="1583" height="296" key="GridCell.Tab.0.left" timestamp="1605347832343">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
     <state width="1865" height="268" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1604510351652" />
-    <state width="2503" height="376" key="GridCell.Tab.0.left/0.0.2560.1440@0.0.2560.1440" timestamp="1605016029858" />
-    <state width="2503" height="376" key="GridCell.Tab.0.right" timestamp="1605016029859">
+    <state width="1583" height="296" key="GridCell.Tab.0.left/0.0.2560.1440@0.0.2560.1440" timestamp="1605347832343" />
+    <state width="1583" height="296" key="GridCell.Tab.0.right" timestamp="1605347832343">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
     <state width="1865" height="268" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1604510351652" />
-    <state width="2503" height="376" key="GridCell.Tab.0.right/0.0.2560.1440@0.0.2560.1440" timestamp="1605016029859" />
-    <state x="603" y="275" key="Rider.ProjectTemplateDialog.Size" timestamp="1605015912696">
+    <state width="1583" height="296" key="GridCell.Tab.0.right/0.0.2560.1440@0.0.2560.1440" timestamp="1605347832343" />
+    <state x="603" y="275" key="Rider.ProjectTemplateDialog.Size" timestamp="1605347545867">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
     <state x="452" y="206" key="Rider.ProjectTemplateDialog.Size/0.0.1920.1080@0.0.1920.1080" timestamp="1604498472621" />
-    <state x="603" y="275" key="Rider.ProjectTemplateDialog.Size/0.0.2560.1440@0.0.2560.1440" timestamp="1605015912696" />
+    <state x="603" y="275" key="Rider.ProjectTemplateDialog.Size/0.0.2560.1440@0.0.2560.1440" timestamp="1605347545867" />
     <state x="439" y="129" key="SettingsEditor" timestamp="1605015666094">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>

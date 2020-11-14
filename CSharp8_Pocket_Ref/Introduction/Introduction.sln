@@ -60,6 +60,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BreakEx", "BreakEx\BreakEx.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContinueEx", "ContinueEx\ContinueEx.csproj", "{F6BB0D4D-637A-4A71-946F-FF61122910E5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GotoEx", "GotoEx\GotoEx.csproj", "{E6D12D27-197C-4590-8119-459DAD505F47}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UsingStaticEx", "UsingStaticEx\UsingStaticEx.csproj", "{C7E3289A-FF4B-4437-A0B0-4C4280DE27EA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -186,5 +190,13 @@ Global
 		{F6BB0D4D-637A-4A71-946F-FF61122910E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F6BB0D4D-637A-4A71-946F-FF61122910E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F6BB0D4D-637A-4A71-946F-FF61122910E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E6D12D27-197C-4590-8119-459DAD505F47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6D12D27-197C-4590-8119-459DAD505F47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6D12D27-197C-4590-8119-459DAD505F47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6D12D27-197C-4590-8119-459DAD505F47}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C7E3289A-FF4B-4437-A0B0-4C4280DE27EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7E3289A-FF4B-4437-A0B0-4C4280DE27EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7E3289A-FF4B-4437-A0B0-4C4280DE27EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7E3289A-FF4B-4437-A0B0-4C4280DE27EA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
