@@ -1,0 +1,9 @@
+D:\RnD\csharp8_dev\CSharp8_Pocket_Ref\Introduction\GotoEx\bin\Debug\net48\GotoEx.exe.config
+D:\RnD\csharp8_dev\CSharp8_Pocket_Ref\Introduction\GotoEx\bin\Debug\net48\GotoEx.exe
+D:\RnD\csharp8_dev\CSharp8_Pocket_Ref\Introduction\GotoEx\bin\Debug\net48\GotoEx.pdb
+D:\RnD\csharp8_dev\CSharp8_Pocket_Ref\Introduction\GotoEx\obj\Debug\net48\GotoEx.csprojAssemblyReference.cache
+D:\RnD\csharp8_dev\CSharp8_Pocket_Ref\Introduction\GotoEx\obj\Debug\net48\GotoEx.AssemblyInfoInputs.cache
+D:\RnD\csharp8_dev\CSharp8_Pocket_Ref\Introduction\GotoEx\obj\Debug\net48\GotoEx.AssemblyInfo.cs
+D:\RnD\csharp8_dev\CSharp8_Pocket_Ref\Introduction\GotoEx\obj\Debug\net48\GotoEx.csproj.CoreCompileInputs.cache
+D:\RnD\csharp8_dev\CSharp8_Pocket_Ref\Introduction\GotoEx\obj\Debug\net48\GotoEx.exe
+D:\RnD\csharp8_dev\CSharp8_Pocket_Ref\Introduction\GotoEx\obj\Debug\net48\GotoEx.pdb
